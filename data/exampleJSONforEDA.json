@@ -1,0 +1,3443 @@
+[
+    {
+        "journey": {
+            "14c6a65fd0426ff3": {
+                "journeys": {
+                    "14c6a65fd0426ff3_8911528_70706143": {
+                        "content_name": null,
+                        "duration": null,
+                        "content_interaction": null,
+                        "content_piece": null,
+                        "area_producto_unir": {
+                            "area": "Educación",
+                            "nombrecurso": "Licenciatura en Pedagogía"
+                        },
+                        "client_ip": "189.146.66.163",
+                        "idvisitor": "14c6a65fd0426ff3",
+                        "id": "14c6a65fd0426ff3_8911528_70706143",
+                        "uuid": null,
+                        "url": "mexico.unir.net/educacion/licenciatura-pedagogia/",
+                        "timestamp": "2019-03-10T12:39:46.000Z"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "journey": {
+            "173d4d906f73c71d": {
+                "journeys": {
+                    "173d4d906f73c71d_8911679_70707076": {
+                        "content_name": null,
+                        "duration": 10,
+                        "content_interaction": null,
+                        "content_piece": null,
+                        "area_producto_unir": {
+                            "area": "Economía y Empresa",
+                            "nombrecurso": "Maestría en Dirección y Administración de Empresas (MBA)"
+                        },
+                        "client_ip": "187.227.4.81",
+                        "idvisitor": "173d4d906f73c71d",
+                        "id": "173d4d906f73c71d_8911679_70707076",
+                        "uuid": null,
+                        "url": "mexico.unir.net/economia/maestria-administracion-negocios-mba/?IA=nc",
+                        "timestamp": "2019-03-10T12:44:18.000Z"
+                    },
+                    "173d4d906f73c71d_8911679_70707115": {
+                        "content_name": "argumentos-principales",
+                        "duration": null,
+                        "content_interaction": null,
+                        "content_piece": "Estudia tu Maestría oficial en línea con UNIR",
+                        "area_producto_unir": {
+                            "area": "Economía y Empresa",
+                            "nombrecurso": "Maestría en Dirección y Administración de Empresas (MBA)"
+                        },
+                        "client_ip": "187.227.4.81",
+                        "idvisitor": "173d4d906f73c71d",
+                        "id": "173d4d906f73c71d_8911679_70707115",
+                        "uuid": null,
+                        "url": "https://mexico.unir.net/economia/maestria-administracion-negocios-mba/?IA=nc",
+                        "timestamp": "2019-03-10T12:44:28.000Z"
+                    },
+                    "173d4d906f73c71d_8911679_70707113": {
+                        "content_name": "info-extra",
+                        "duration": null,
+                        "content_interaction": null,
+                        "content_piece": "Para poder acceder a esta Maestría es requisito imprescindible contar con:",
+                        "area_producto_unir": {
+                            "area": "Economía y Empresa",
+                            "nombrecurso": "Maestría en Dirección y Administración de Empresas (MBA)"
+                        },
+                        "client_ip": "187.227.4.81",
+                        "idvisitor": "173d4d906f73c71d",
+                        "id": "173d4d906f73c71d_8911679_70707113",
+                        "uuid": null,
+                        "url": "https://mexico.unir.net/economia/maestria-administracion-negocios-mba/?IA=nc",
+                        "timestamp": "2019-03-10T12:44:28.000Z"
+                    },
+                    "173d4d906f73c71d_8911679_70707114": {
+                        "content_name": "argumentos-secundarios",
+                        "duration": null,
+                        "content_interaction": null,
+                        "content_piece": "¿Por qué un MBA en línea en UNIR?",
+                        "area_producto_unir": {
+                            "area": "Economía y Empresa",
+                            "nombrecurso": "Maestría en Dirección y Administración de Empresas (MBA)"
+                        },
+                        "client_ip": "187.227.4.81",
+                        "idvisitor": "173d4d906f73c71d",
+                        "id": "173d4d906f73c71d_8911679_70707114",
+                        "uuid": null,
+                        "url": "https://mexico.unir.net/economia/maestria-administracion-negocios-mba/?IA=nc",
+                        "timestamp": "2019-03-10T12:44:28.000Z"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "journey": {
+            "1fc3a7302800ee03": {
+                "journeys": {
+                    "1fc3a7302800ee03_8912003_70709139": {
+                        "content_name": null,
+                        "duration": 1,
+                        "content_interaction": null,
+                        "content_piece": null,
+                        "area_producto_unir": {
+                            "area": "Economía y Empresa",
+                            "nombrecurso": "Maestría en Dirección y Administración de Empresas (MBA)"
+                        },
+                        "client_ip": "177.228.45.139",
+                        "idvisitor": "1fc3a7302800ee03",
+                        "id": "1fc3a7302800ee03_8912003_70709139",
+                        "uuid": null,
+                        "url": "mexico.unir.net/economia/maestria-administracion-negocios-mba/?IA=nc",
+                        "timestamp": "2019-03-10T12:53:13.000Z"
+                    },
+                    "1fc3a7302800ee03_8912003_70709167": {
+                        "content_name": "argumentos-secundarios",
+                        "duration": null,
+                        "content_interaction": null,
+                        "content_piece": "MBA con Doble Título mexicano y europeo",
+                        "area_producto_unir": {
+                            "area": "Economía y Empresa",
+                            "nombrecurso": "Maestría en Dirección y Administración de Empresas (MBA)"
+                        },
+                        "client_ip": "177.228.45.139",
+                        "idvisitor": "1fc3a7302800ee03",
+                        "id": "1fc3a7302800ee03_8912003_70709167",
+                        "uuid": null,
+                        "url": "https://mexico.unir.net/economia/maestria-administracion-negocios-mba/?IA=nc",
+                        "timestamp": "2019-03-10T12:53:14.000Z"
+                    },
+                    "1fc3a7302800ee03_8912003_70709401": {
+                        "content_name": "related-content",
+                        "duration": null,
+                        "content_interaction": null,
+                        "content_piece": "¿Por qué hacer un MBA en línea? 8 motivos para decidirte",
+                        "area_producto_unir": {
+                            "area": "Economía y Empresa",
+                            "nombrecurso": "Maestría en Dirección y Administración de Empresas (MBA)"
+                        },
+                        "client_ip": "177.228.45.139",
+                        "idvisitor": "1fc3a7302800ee03",
+                        "id": "1fc3a7302800ee03_8912003_70709401",
+                        "uuid": null,
+                        "url": "https://mexico.unir.net/economia/maestria-administracion-negocios-mba/?IA=nc",
+                        "timestamp": "2019-03-10T12:54:30.000Z"
+                    },
+                    "1fc3a7302800ee03_8912003_70709402": {
+                        "content_name": "related-content",
+                        "duration": null,
+                        "content_interaction": null,
+                        "content_piece": "Un MBA online de calidad ofrece una experiencia mejorada de la formación presencial",
+                        "area_producto_unir": {
+                            "area": "Economía y Empresa",
+                            "nombrecurso": "Maestría en Dirección y Administración de Empresas (MBA)"
+                        },
+                        "client_ip": "177.228.45.139",
+                        "idvisitor": "1fc3a7302800ee03",
+                        "id": "1fc3a7302800ee03_8912003_70709402",
+                        "uuid": null,
+                        "url": "https://mexico.unir.net/economia/maestria-administracion-negocios-mba/?IA=nc",
+                        "timestamp": "2019-03-10T12:54:30.000Z"
+                    },
+                    "1fc3a7302800ee03_8912003_70709168": {
+                        "content_name": "argumentos-principales",
+                        "duration": null,
+                        "content_interaction": null,
+                        "content_piece": "Maestría oficial SEP en solo 18 meses con calidad europea.",
+                        "area_producto_unir": {
+                            "area": "Economía y Empresa",
+                            "nombrecurso": "Maestría en Dirección y Administración de Empresas (MBA)"
+                        },
+                        "client_ip": "177.228.45.139",
+                        "idvisitor": "1fc3a7302800ee03",
+                        "id": "1fc3a7302800ee03_8912003_70709168",
+                        "uuid": null,
+                        "url": "https://mexico.unir.net/economia/maestria-administracion-negocios-mba/?IA=nc",
+                        "timestamp": "2019-03-10T12:53:14.000Z"
+                    },
+                    "1fc3a7302800ee03_8912003_70709166": {
+                        "content_name": "info-extra",
+                        "duration": null,
+                        "content_interaction": null,
+                        "content_piece": "Para poder acceder a esta Maestría es requisito imprescindible contar con:",
+                        "area_producto_unir": {
+                            "area": "Economía y Empresa",
+                            "nombrecurso": "Maestría en Dirección y Administración de Empresas (MBA)"
+                        },
+                        "client_ip": "177.228.45.139",
+                        "idvisitor": "1fc3a7302800ee03",
+                        "id": "1fc3a7302800ee03_8912003_70709166",
+                        "uuid": null,
+                        "url": "https://mexico.unir.net/economia/maestria-administracion-negocios-mba/?IA=nc",
+                        "timestamp": "2019-03-10T12:53:14.000Z"
+                    },
+                    "1fc3a7302800ee03_8912003_70709404": {
+                        "content_name": "related-content",
+                        "duration": null,
+                        "content_interaction": null,
+                        "content_piece": "Cómo se estudia el ‘Método del Caso’ de forma en línea en UNIR",
+                        "area_producto_unir": {
+                            "area": "Economía y Empresa",
+                            "nombrecurso": "Maestría en Dirección y Administración de Empresas (MBA)"
+                        },
+                        "client_ip": "177.228.45.139",
+                        "idvisitor": "1fc3a7302800ee03",
+                        "id": "1fc3a7302800ee03_8912003_70709404",
+                        "uuid": null,
+                        "url": "https://mexico.unir.net/economia/maestria-administracion-negocios-mba/?IA=nc",
+                        "timestamp": "2019-03-10T12:54:30.000Z"
+                    },
+                    "1fc3a7302800ee03_8912003_70709403": {
+                        "content_name": "related-content",
+                        "duration": null,
+                        "content_interaction": null,
+                        "content_piece": "Las preguntas que debes hacerte para saber qué MBA te conviene",
+                        "area_producto_unir": {
+                            "area": "Economía y Empresa",
+                            "nombrecurso": "Maestría en Dirección y Administración de Empresas (MBA)"
+                        },
+                        "client_ip": "177.228.45.139",
+                        "idvisitor": "1fc3a7302800ee03",
+                        "id": "1fc3a7302800ee03_8912003_70709403",
+                        "uuid": null,
+                        "url": "https://mexico.unir.net/economia/maestria-administracion-negocios-mba/?IA=nc",
+                        "timestamp": "2019-03-10T12:54:30.000Z"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "journey": {
+            "3fbe8729b9e32eb2": {
+                "journeys": {
+                    "3fbe8729b9e32eb2_8911226_70704168": {
+                        "content_name": null,
+                        "duration": null,
+                        "content_interaction": null,
+                        "content_piece": null,
+                        "area_producto_unir": {
+                            "area": "Ingeniería",
+                            "nombrecurso": "Maestría en Dirección e Ingeniería en Sitios Web"
+                        },
+                        "client_ip": "177.232.82.134",
+                        "idvisitor": "3fbe8729b9e32eb2",
+                        "id": "3fbe8729b9e32eb2_8911226_70704168",
+                        "uuid": null,
+                        "url": "mexico.unir.net/ingenieria/maestria-desarrollo-sitios-web/",
+                        "timestamp": "2019-03-10T12:30:36.000Z"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "journey": {
+            "42e72af97a9e78e2": {
+                "journeys": {
+                    "42e72af97a9e78e2_8911699_70707147": {
+                        "content_name": null,
+                        "duration": null,
+                        "content_interaction": null,
+                        "content_piece": null,
+                        "area_producto_unir": {
+                            "area": "Economía y Empresa",
+                            "nombrecurso": "Maestría en Dirección y Administración de Empresas (MBA)"
+                        },
+                        "client_ip": "187.189.155.169",
+                        "idvisitor": "42e72af97a9e78e2",
+                        "id": "42e72af97a9e78e2_8911699_70707147",
+                        "uuid": null,
+                        "url": "mexico.unir.net/economia/maestria-administracion-negocios-mba/?IA=nc",
+                        "timestamp": "2019-03-10T12:44:46.000Z"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "journey": {
+            "5a035a601a1b814b": {
+                "journeys": {
+                    "5a035a601a1b814b_8911498_70706014": {
+                        "content_name": "argumentos-secundarios",
+                        "duration": null,
+                        "content_interaction": null,
+                        "content_piece": "MBA con Doble Título mexicano y europeo",
+                        "area_producto_unir": {
+                            "area": "Economía y Empresa",
+                            "nombrecurso": "Maestría en Dirección y Administración de Empresas (MBA)"
+                        },
+                        "client_ip": "200.76.83.116",
+                        "idvisitor": "5a035a601a1b814b",
+                        "id": "5a035a601a1b814b_8911498_70706014",
+                        "uuid": null,
+                        "url": "https://mexico.unir.net/economia/maestria-administracion-negocios-mba/?IA=nc",
+                        "timestamp": "2019-03-10T12:39:13.000Z"
+                    },
+                    "5a035a601a1b814b_8911498_70706015": {
+                        "content_name": "argumentos-principales",
+                        "duration": null,
+                        "content_interaction": null,
+                        "content_piece": "Maestría oficial SEP en solo 18 meses con calidad europea.",
+                        "area_producto_unir": {
+                            "area": "Economía y Empresa",
+                            "nombrecurso": "Maestría en Dirección y Administración de Empresas (MBA)"
+                        },
+                        "client_ip": "200.76.83.116",
+                        "idvisitor": "5a035a601a1b814b",
+                        "id": "5a035a601a1b814b_8911498_70706015",
+                        "uuid": null,
+                        "url": "https://mexico.unir.net/economia/maestria-administracion-negocios-mba/?IA=nc",
+                        "timestamp": "2019-03-10T12:39:13.000Z"
+                    },
+                    "5a035a601a1b814b_8911498_70706013": {
+                        "content_name": "info-extra",
+                        "duration": null,
+                        "content_interaction": null,
+                        "content_piece": "Para poder acceder a esta Maestría es requisito imprescindible contar con:",
+                        "area_producto_unir": {
+                            "area": "Economía y Empresa",
+                            "nombrecurso": "Maestría en Dirección y Administración de Empresas (MBA)"
+                        },
+                        "client_ip": "200.76.83.116",
+                        "idvisitor": "5a035a601a1b814b",
+                        "id": "5a035a601a1b814b_8911498_70706013",
+                        "uuid": null,
+                        "url": "https://mexico.unir.net/economia/maestria-administracion-negocios-mba/?IA=nc",
+                        "timestamp": "2019-03-10T12:39:13.000Z"
+                    },
+                    "5a035a601a1b814b_8911498_70705982": {
+                        "content_name": null,
+                        "duration": 4,
+                        "content_interaction": null,
+                        "content_piece": null,
+                        "area_producto_unir": {
+                            "area": "Economía y Empresa",
+                            "nombrecurso": "Maestría en Dirección y Administración de Empresas (MBA)"
+                        },
+                        "client_ip": "200.76.83.116",
+                        "idvisitor": "5a035a601a1b814b",
+                        "id": "5a035a601a1b814b_8911498_70705982",
+                        "uuid": null,
+                        "url": "mexico.unir.net/economia/maestria-administracion-negocios-mba/?IA=nc",
+                        "timestamp": "2019-03-10T12:39:09.000Z"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "journey": {
+            "61c384256ea272b3": {
+                "journeys": {
+                    "61c384256ea272b3_8911863_70708377": {
+                        "content_name": null,
+                        "duration": 30,
+                        "content_interaction": null,
+                        "content_piece": null,
+                        "area_producto_unir": {
+                            "area": "Marketing y Comunicación",
+                            "nombrecurso": "Maestría en Marketing Digital y Comercio Electrónico"
+                        },
+                        "client_ip": "201.141.38.147",
+                        "idvisitor": "61c384256ea272b3",
+                        "id": "61c384256ea272b3_8911863_70708377",
+                        "uuid": null,
+                        "url": "mexico.unir.net/comunicacion-mercadotecnia/maestria-marketing-digital-comercio-electronico/",
+                        "timestamp": "2019-03-10T12:50:01.000Z"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "journey": {
+            "616dd81cc5dad2c9": {
+                "journeys": {
+                    "616dd81cc5dad2c9_8911962_70708828": {
+                        "content_name": null,
+                        "duration": null,
+                        "content_interaction": null,
+                        "content_piece": null,
+                        "area_producto_unir": {
+                            "area": "Ciencias Sociales y del Trabajo",
+                            "nombrecurso": "Maestría en Salud Ocupacional en Línea "
+                        },
+                        "client_ip": "179.32.94.165",
+                        "idvisitor": "616dd81cc5dad2c9",
+                        "id": "616dd81cc5dad2c9_8911962_70708828",
+                        "uuid": null,
+                        "url": "estudios.unir.net/programa/co-esp-ma-soc-maestria-prevencion-riesgos-laborales/539000027313/",
+                        "timestamp": "2019-03-10T12:51:45.000Z"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "journey": {
+            "65b97b9c43df4075": {
+                "journeys": {
+                    "65b97b9c43df4075_8911272_70704481": {
+                        "content_name": null,
+                        "duration": 7,
+                        "content_interaction": null,
+                        "content_piece": null,
+                        "area_producto_unir": {
+                            "area": "Educación",
+                            "idcurso": "0",
+                            "nombrecurso": "NULO"
+                        },
+                        "client_ip": "186.86.29.43",
+                        "idvisitor": "65b97b9c43df4075",
+                        "id": "65b97b9c43df4075_8911272_70704481",
+                        "uuid": null,
+                        "url": "mexico.unir.net/educacion/diplomado-experto-metodologia-clil-aicle/",
+                        "timestamp": "2019-03-10T12:32:02.000Z"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "journey": {
+            "68ef6abd1088ad73": {
+                "journeys": {
+                    "68ef6abd1088ad73_8912011_70709186": {
+                        "content_name": null,
+                        "duration": 31,
+                        "content_interaction": null,
+                        "content_piece": null,
+                        "area_producto_unir": {
+                            "area": "Postgrados",
+                            "idcurso": "0",
+                            "nombrecurso": "NULO"
+                        },
+                        "client_ip": "216.162.47.76",
+                        "idvisitor": "68ef6abd1088ad73",
+                        "id": "68ef6abd1088ad73_8912011_70709186",
+                        "uuid": null,
+                        "url": "mexico.unir.net/maestrias-en-linea-sep/",
+                        "timestamp": "2019-03-10T12:53:22.000Z"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "journey": {
+            "868ba0946ce48887": {
+                "journeys": {
+                    "868ba0946ce48887_8911856_70708197": {
+                        "content_name": null,
+                        "duration": null,
+                        "content_interaction": null,
+                        "content_piece": null,
+                        "area_producto_unir": {
+                            "area": "Economía y Empresa",
+                            "nombrecurso": "Maestría en Dirección y Administración de Empresas (MBA)"
+                        },
+                        "client_ip": "189.137.152.23",
+                        "idvisitor": "868ba0946ce48887",
+                        "id": "868ba0946ce48887_8911856_70708197",
+                        "uuid": null,
+                        "url": "mexico.unir.net/economia/maestria-administracion-negocios-mba/?IA=nc",
+                        "timestamp": "2019-03-10T12:49:07.000Z"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "journey": {
+            "926da86667ab921c": {
+                "journeys": {
+                    "926da86667ab921c_8911591_70706925": {
+                        "content_name": null,
+                        "duration": 1,
+                        "content_interaction": null,
+                        "content_piece": null,
+                        "area_producto_unir": {
+                            "area": "Economía y Empresa",
+                            "nombrecurso": "Maestría en Dirección y Administración de Empresas (MBA)"
+                        },
+                        "client_ip": "201.156.151.142",
+                        "idvisitor": "926da86667ab921c",
+                        "id": "926da86667ab921c_8911591_70706925",
+                        "uuid": null,
+                        "url": "mexico.unir.net/economia/maestria-administracion-negocios-mba/?IA=nr",
+                        "timestamp": "2019-03-10T12:43:17.000Z"
+                    },
+                    "926da86667ab921c_8911591_70706587": {
+                        "content_name": null,
+                        "duration": 11,
+                        "content_interaction": null,
+                        "content_piece": null,
+                        "area_producto_unir": {
+                            "area": "Postgrados",
+                            "idcurso": "0",
+                            "nombrecurso": "NULO"
+                        },
+                        "client_ip": "201.156.151.142",
+                        "idvisitor": "926da86667ab921c",
+                        "id": "926da86667ab921c_8911591_70706587",
+                        "uuid": null,
+                        "url": "mexico.unir.net/maestrias-en-linea-sep/",
+                        "timestamp": "2019-03-10T12:41:32.000Z"
+                    },
+                    "926da86667ab921c_8911591_70706930": {
+                        "content_name": "argumentos-principales",
+                        "duration": 22,
+                        "content_interaction": null,
+                        "content_piece": "Maestría oficial SEP en solo 18 meses con calidad europea.",
+                        "area_producto_unir": {
+                            "area": "Economía y Empresa",
+                            "nombrecurso": "Maestría en Dirección y Administración de Empresas (MBA)"
+                        },
+                        "client_ip": "201.156.151.142",
+                        "idvisitor": "926da86667ab921c",
+                        "id": "926da86667ab921c_8911591_70706930",
+                        "uuid": null,
+                        "url": "https://mexico.unir.net/economia/maestria-administracion-negocios-mba/?IA=nr",
+                        "timestamp": "2019-03-10T12:43:18.000Z"
+                    },
+                    "926da86667ab921c_8911591_70706928": {
+                        "content_name": "info-extra",
+                        "duration": null,
+                        "content_interaction": null,
+                        "content_piece": "Para poder acceder a esta Maestría es requisito imprescindible contar con:",
+                        "area_producto_unir": {
+                            "area": "Economía y Empresa",
+                            "nombrecurso": "Maestría en Dirección y Administración de Empresas (MBA)"
+                        },
+                        "client_ip": "201.156.151.142",
+                        "idvisitor": "926da86667ab921c",
+                        "id": "926da86667ab921c_8911591_70706928",
+                        "uuid": null,
+                        "url": "https://mexico.unir.net/economia/maestria-administracion-negocios-mba/?IA=nr",
+                        "timestamp": "2019-03-10T12:43:18.000Z"
+                    },
+                    "926da86667ab921c_8911591_70706929": {
+                        "content_name": "argumentos-secundarios",
+                        "duration": null,
+                        "content_interaction": null,
+                        "content_piece": "MBA con Doble Título mexicano y europeo",
+                        "area_producto_unir": {
+                            "area": "Economía y Empresa",
+                            "nombrecurso": "Maestría en Dirección y Administración de Empresas (MBA)"
+                        },
+                        "client_ip": "201.156.151.142",
+                        "idvisitor": "926da86667ab921c",
+                        "id": "926da86667ab921c_8911591_70706929",
+                        "uuid": null,
+                        "url": "https://mexico.unir.net/economia/maestria-administracion-negocios-mba/?IA=nr",
+                        "timestamp": "2019-03-10T12:43:18.000Z"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "journey": {
+            "98dc792d4666e270": {
+                "journeys": {
+                    "98dc792d4666e270_8911547_70706274": {
+                        "content_name": null,
+                        "duration": null,
+                        "content_interaction": null,
+                        "content_piece": null,
+                        "area_producto_unir": {
+                            "area": "Economía y Empresa",
+                            "nombrecurso": "Maestría en Dirección y Administración de Empresas (MBA)"
+                        },
+                        "client_ip": "172.255.61.36",
+                        "idvisitor": "98dc792d4666e270",
+                        "id": "98dc792d4666e270_8911547_70706274",
+                        "uuid": null,
+                        "url": "mexico.unir.net/economia/maestria-administracion-negocios-mba/",
+                        "timestamp": "2019-03-10T12:40:16.000Z"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "journey": {
+            "a81405ab34d9c1ae": {
+                "journeys": {
+                    "a81405ab34d9c1ae_8912185_70710181": {
+                        "content_name": null,
+                        "duration": null,
+                        "content_interaction": null,
+                        "content_piece": null,
+                        "area_producto_unir": {
+                            "area": "HOME",
+                            "idcurso": "0",
+                            "nombrecurso": "NULO"
+                        },
+                        "client_ip": "200.105.247.173",
+                        "idvisitor": "a81405ab34d9c1ae",
+                        "id": "a81405ab34d9c1ae_8912185_70710181",
+                        "uuid": null,
+                        "url": "mexico.unir.net/",
+                        "timestamp": "2019-03-10T12:58:36.000Z"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "journey": {
+            "b1b79ec714bd4b10": {
+                "journeys": {
+                    "b1b79ec714bd4b10_8911895_70708442": {
+                        "content_name": null,
+                        "duration": null,
+                        "content_interaction": null,
+                        "content_piece": null,
+                        "area_producto_unir": {
+                            "area": "HOME",
+                            "idcurso": "0",
+                            "nombrecurso": "NULO"
+                        },
+                        "client_ip": "187.220.96.117",
+                        "idvisitor": "b1b79ec714bd4b10",
+                        "id": "b1b79ec714bd4b10_8911895_70708442",
+                        "uuid": null,
+                        "url": "mexico.unir.net/",
+                        "timestamp": "2019-03-10T12:50:14.000Z"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "journey": {
+            "c64dab2cf74545b5": {
+                "journeys": {
+                    "c64dab2cf74545b5_8911951_70708776": {
+                        "content_name": null,
+                        "duration": 21,
+                        "content_interaction": null,
+                        "content_piece": null,
+                        "area_producto_unir": {
+                            "area": "Grados",
+                            "idcurso": "0",
+                            "nombrecurso": "NULO"
+                        },
+                        "client_ip": "187.155.177.109",
+                        "idvisitor": "c64dab2cf74545b5",
+                        "id": "c64dab2cf74545b5_8911951_70708776",
+                        "uuid": null,
+                        "url": "mexico.unir.net/licenciaturas-en-linea/",
+                        "timestamp": "2019-03-10T12:51:30.000Z"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "journey": {
+            "c62d4ddfcea486ea": {
+                "journeys": {
+                    "c62d4ddfcea486ea_8911267_70704452": {
+                        "content_name": null,
+                        "duration": 60,
+                        "content_interaction": null,
+                        "content_piece": null,
+                        "area_producto_unir": {
+                            "area": "Ciencias de la Salud",
+                            "nombrecurso": "Maestría en Nutrición en Línea "
+                        },
+                        "client_ip": "88.5.47.162",
+                        "idvisitor": "c62d4ddfcea486ea",
+                        "id": "c62d4ddfcea486ea_8911267_70704452",
+                        "uuid": null,
+                        "url": "estudios.unir.net/programa/es-esp-ma-sal-master-nutricion-obesidad/539000258731/?wcmp=828401653&wmatch=b&wkwd=+master de +nutricion&wad=260192809331&wpos=1t1&wdt=m&wdm=",
+                        "timestamp": "2019-03-10T12:31:52.000Z"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "journey": {
+            "d2cbf7e20cdac24a": {
+                "journeys": {
+                    "d2cbf7e20cdac24a_8912220_70710387": {
+                        "content_name": null,
+                        "duration": 26,
+                        "content_interaction": null,
+                        "content_piece": null,
+                        "area_producto_unir": {
+                            "area": "Ingeniería",
+                            "nombrecurso": "Maestría en Ingeniería de Software y Sistemas Informáticos"
+                        },
+                        "client_ip": "189.215.209.214",
+                        "idvisitor": "d2cbf7e20cdac24a",
+                        "id": "d2cbf7e20cdac24a_8912220_70710387",
+                        "uuid": null,
+                        "url": "mexico.unir.net/ingenieria/maestria-ingenieria-software/",
+                        "timestamp": "2019-03-10T12:59:25.000Z"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "journey": {
+            "dc4293d480aeb4b2": {
+                "journeys": {
+                    "dc4293d480aeb4b2_8911300_70704694": {
+                        "content_name": "argumentos-secundarios",
+                        "duration": null,
+                        "content_interaction": null,
+                        "content_piece": "MBA con Doble Título mexicano y europeo",
+                        "area_producto_unir": {
+                            "area": "Economía y Empresa",
+                            "nombrecurso": "Maestría en Dirección y Administración de Empresas (MBA)"
+                        },
+                        "client_ip": "200.68.143.17",
+                        "idvisitor": "dc4293d480aeb4b2",
+                        "id": "dc4293d480aeb4b2_8911300_70704694",
+                        "uuid": null,
+                        "url": "https://mexico.unir.net/economia/maestria-administracion-negocios-mba/?IA=nc",
+                        "timestamp": "2019-03-10T12:32:50.000Z"
+                    },
+                    "dc4293d480aeb4b2_8911300_70704653": {
+                        "content_name": null,
+                        "duration": 5,
+                        "content_interaction": null,
+                        "content_piece": null,
+                        "area_producto_unir": {
+                            "area": "Economía y Empresa",
+                            "nombrecurso": "Maestría en Dirección y Administración de Empresas (MBA)"
+                        },
+                        "client_ip": "200.68.143.17",
+                        "idvisitor": "dc4293d480aeb4b2",
+                        "id": "dc4293d480aeb4b2_8911300_70704653",
+                        "uuid": null,
+                        "url": "mexico.unir.net/economia/maestria-administracion-negocios-mba/?IA=nc",
+                        "timestamp": "2019-03-10T12:32:45.000Z"
+                    },
+                    "dc4293d480aeb4b2_8911300_70704695": {
+                        "content_name": "argumentos-principales",
+                        "duration": null,
+                        "content_interaction": null,
+                        "content_piece": "Maestría oficial SEP en solo 18 meses con calidad europea.",
+                        "area_producto_unir": {
+                            "area": "Economía y Empresa",
+                            "nombrecurso": "Maestría en Dirección y Administración de Empresas (MBA)"
+                        },
+                        "client_ip": "200.68.143.17",
+                        "idvisitor": "dc4293d480aeb4b2",
+                        "id": "dc4293d480aeb4b2_8911300_70704695",
+                        "uuid": null,
+                        "url": "https://mexico.unir.net/economia/maestria-administracion-negocios-mba/?IA=nc",
+                        "timestamp": "2019-03-10T12:32:50.000Z"
+                    },
+                    "dc4293d480aeb4b2_8911300_70704693": {
+                        "content_name": "info-extra",
+                        "duration": null,
+                        "content_interaction": null,
+                        "content_piece": "Para poder acceder a esta Maestría es requisito imprescindible contar con:",
+                        "area_producto_unir": {
+                            "area": "Economía y Empresa",
+                            "nombrecurso": "Maestría en Dirección y Administración de Empresas (MBA)"
+                        },
+                        "client_ip": "200.68.143.17",
+                        "idvisitor": "dc4293d480aeb4b2",
+                        "id": "dc4293d480aeb4b2_8911300_70704693",
+                        "uuid": null,
+                        "url": "https://mexico.unir.net/economia/maestria-administracion-negocios-mba/?IA=nc",
+                        "timestamp": "2019-03-10T12:32:50.000Z"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "journey": {
+            "ec9dadd7b0a33b3f": {
+                "journeys": {
+                    "ec9dadd7b0a33b3f_8911864_70708261": {
+                        "content_name": null,
+                        "duration": 10,
+                        "content_interaction": null,
+                        "content_piece": null,
+                        "area_producto_unir": {
+                            "area": "Grados",
+                            "idcurso": "0",
+                            "nombrecurso": "NULO"
+                        },
+                        "client_ip": "200.77.128.243",
+                        "idvisitor": "ec9dadd7b0a33b3f",
+                        "id": "ec9dadd7b0a33b3f_8911864_70708261",
+                        "uuid": null,
+                        "url": "mexico.unir.net/licenciaturas-en-linea/",
+                        "timestamp": "2019-03-10T12:49:28.000Z"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "journey": {
+            "f480c8662083acee": {
+                "journeys": {
+                    "f480c8662083acee_8912196_70710230": {
+                        "content_name": null,
+                        "duration": null,
+                        "content_interaction": null,
+                        "content_piece": null,
+                        "area_producto_unir": {
+                            "area": "HOME",
+                            "idcurso": "0",
+                            "nombrecurso": "NULO"
+                        },
+                        "client_ip": "187.208.204.88",
+                        "idvisitor": "f480c8662083acee",
+                        "id": "f480c8662083acee_8912196_70710230",
+                        "uuid": null,
+                        "url": "mexico.unir.net/",
+                        "timestamp": "2019-03-10T12:58:47.000Z"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "journey": {
+            "fe742b8cbaab8281": {
+                "journeys": {
+                    "fe742b8cbaab8281_8911555_70706526": {
+                        "content_name": null,
+                        "duration": 30,
+                        "content_interaction": null,
+                        "content_piece": null,
+                        "area_producto_unir": {
+                            "area": "Educación",
+                            "nombrecurso": "Maestría en Psicopedagogía"
+                        },
+                        "client_ip": "187.190.26.70",
+                        "idvisitor": "fe742b8cbaab8281",
+                        "id": "fe742b8cbaab8281_8911555_70706526",
+                        "uuid": null,
+                        "url": "estudios.unir.net/programa/mx-esp-ma-ed-maestria-sep-psicopedagogia-mexico/539000073586/",
+                        "timestamp": "2019-03-10T12:41:16.000Z"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "journey": {
+            "fe6772bd90095cd6": {
+                "journeys": {
+                    "fe6772bd90095cd6_8912226_70710437": {
+                        "content_name": null,
+                        "duration": 10,
+                        "content_interaction": null,
+                        "content_piece": null,
+                        "area_producto_unir": {
+                            "area": "Educación",
+                            "nombrecurso": "Máster Universitario en Tecnología Educativa y Competencias Digitales"
+                        },
+                        "client_ip": "88.20.74.11",
+                        "idvisitor": "fe6772bd90095cd6",
+                        "id": "fe6772bd90095cd6_8912226_70710437",
+                        "uuid": null,
+                        "url": "estudios.unir.net/programa/es-esp-ma-ed-master-educacion-tic/539000085518/?wcmp=315704903&wmatch=b&wkwd=+competencias +digitales profesores&wad=260128689094&wpos=1t1&wdt=m&wdm=",
+                        "timestamp": "2019-03-10T12:59:36.000Z"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "journey": {
+            "fe742b8cbaab8281": {
+                "journeys": {
+                    "fe742b8cbaab8281_8911555_70707020": {
+                        "content_name": null,
+                        "duration": 10,
+                        "content_interaction": null,
+                        "content_piece": null,
+                        "area_producto_unir": {
+                            "area": "Postgrados",
+                            "idcurso": "0",
+                            "nombrecurso": "NULO"
+                        },
+                        "client_ip": "187.190.26.70",
+                        "idvisitor": "fe742b8cbaab8281",
+                        "id": "fe742b8cbaab8281_8911555_70707020",
+                        "uuid": null,
+                        "url": "mexico.unir.net/maestrias-en-linea-sep/",
+                        "timestamp": "2019-03-10T12:43:54.000Z"
+                    }
+                }
+            },
+            "00f2a3e8da38b802": {
+                "journeys": {
+                    "00f2a3e8da38b802_8912232_70710467": {
+                        "content_name": null,
+                        "duration": null,
+                        "content_interaction": null,
+                        "content_piece": null,
+                        "area_producto_unir": {
+                            "area": "Marketing y Comunicación",
+                            "nombrecurso": "Máster Universitario en Marketing Digital y Comercio Electrónico"
+                        },
+                        "client_ip": "93.114.157.216",
+                        "idvisitor": "00f2a3e8da38b802",
+                        "id": "00f2a3e8da38b802_8912232_70710467",
+                        "uuid": null,
+                        "url": "estudios.unir.net/programa/es-esp-ma-em-master-marketing-digital-ecommerce/539000015388/?wcmp=727298589&wmatch=b&wkwd=+curso +online +marketing&wad=260091285834&wpos=1t1&wdt=m&wdm=",
+                        "timestamp": "2019-03-10T12:59:46.000Z"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "journey": {
+            "0379aa89d197e3dc": {
+                "journeys": {
+                    "0379aa89d197e3dc_8911664_70707390": {
+                        "content_name": null,
+                        "duration": 10,
+                        "content_interaction": null,
+                        "content_piece": null,
+                        "area_producto_unir": {
+                            "area": "Ingeniería",
+                            "nombrecurso": "Maestría en Diseño y Gestión de Proyectos Tecnológicos"
+                        },
+                        "client_ip": "189.216.156.202",
+                        "idvisitor": "0379aa89d197e3dc",
+                        "id": "0379aa89d197e3dc_8911664_70707390",
+                        "uuid": null,
+                        "url": "estudios.unir.net/programa/mx-esp-ma-ing-maestria-sep-gestion-proyectos-tecnologicos/539000275110/",
+                        "timestamp": "2019-03-10T12:45:43.000Z"
+                    },
+                    "0379aa89d197e3dc_8911664_70707012": {
+                        "content_name": null,
+                        "duration": 9,
+                        "content_interaction": null,
+                        "content_piece": null,
+                        "area_producto_unir": {
+                            "area": "Ingeniería",
+                            "nombrecurso": "Maestría en Dirección e Ingeniería en Sitios Web"
+                        },
+                        "client_ip": "189.216.156.202",
+                        "idvisitor": "0379aa89d197e3dc",
+                        "id": "0379aa89d197e3dc_8911664_70707012",
+                        "uuid": null,
+                        "url": "estudios.unir.net/programa/mx-gen-ma-gene-maestrias-sep-mexico/539000073862/",
+                        "timestamp": "2019-03-10T12:43:47.000Z"
+                    },
+                    "0379aa89d197e3dc_8911664_70707634": {
+                        "content_name": null,
+                        "duration": null,
+                        "content_interaction": null,
+                        "content_piece": null,
+                        "area_producto_unir": {
+                            "area": "Ingeniería",
+                            "nombrecurso": "Maestría en Ingeniería de Software y Sistemas Informáticos"
+                        },
+                        "client_ip": "189.216.156.202",
+                        "idvisitor": "0379aa89d197e3dc",
+                        "id": "0379aa89d197e3dc_8911664_70707634",
+                        "uuid": null,
+                        "url": "estudios.unir.net/programa/mx-esp-ma-ing-maestria-ingenieria-software/539000345417/",
+                        "timestamp": "2019-03-10T12:46:44.000Z"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "journey": {
+            "04c00d64756f71fb": {
+                "journeys": {
+                    "04c00d64756f71fb_8912098_70710160": {
+                        "content_name": null,
+                        "duration": 10,
+                        "content_interaction": null,
+                        "content_piece": null,
+                        "area_producto_unir": {
+                            "area": "Educación",
+                            "nombrecurso": "Máster Universitario en Tecnología Educativa y Competencias Digitales"
+                        },
+                        "client_ip": "181.198.238.146",
+                        "idvisitor": "04c00d64756f71fb",
+                        "id": "04c00d64756f71fb_8912098_70710160",
+                        "uuid": null,
+                        "url": "estudios.unir.net/programa/ec-esp-ma-ed-maestria-tecnologia-educativa-competencias-digitales-ec/539000113287/",
+                        "timestamp": "2019-03-10T12:58:32.000Z"
+                    },
+                    "04c00d64756f71fb_8912098_70709694": {
+                        "content_name": null,
+                        "duration": 52,
+                        "content_interaction": null,
+                        "content_piece": null,
+                        "area_producto_unir": {
+                            "area": "Educación",
+                            "nombrecurso": "Máster Universitario en Tecnología Educativa y Competencias Digitales"
+                        },
+                        "client_ip": "181.198.238.146",
+                        "idvisitor": "04c00d64756f71fb",
+                        "id": "04c00d64756f71fb_8912098_70709694",
+                        "uuid": null,
+                        "url": "estudios.unir.net/programa/ec-esp-ma-ed-maestria-tecnologia-educativa-competencias-digitales-ec/539000113287/",
+                        "timestamp": "2019-03-10T12:56:03.000Z"
+                    },
+                    "04c00d64756f71fb_8912098_70710300": {
+                        "content_name": null,
+                        "duration": 20,
+                        "content_interaction": null,
+                        "content_piece": null,
+                        "area_producto_unir": {
+                            "area": "Educación",
+                            "nombrecurso": "Máster Universitario en Tecnología Educativa y Competencias Digitales"
+                        },
+                        "client_ip": "181.198.238.146",
+                        "idvisitor": "04c00d64756f71fb",
+                        "id": "04c00d64756f71fb_8912098_70710300",
+                        "uuid": null,
+                        "url": "estudios.unir.net/programa/ec-esp-ma-ed-maestria-tecnologia-educativa-competencias-digitales-ec/539000113287/",
+                        "timestamp": "2019-03-10T12:59:04.000Z"
+                    },
+                    "04c00d64756f71fb_8912098_70710196": {
+                        "content_name": null,
+                        "duration": null,
+                        "content_interaction": null,
+                        "content_piece": null,
+                        "area_producto_unir": {
+                            "area": "Educación",
+                            "nombrecurso": "Máster Universitario en Tecnología Educativa y Competencias Digitales"
+                        },
+                        "client_ip": "181.198.238.146",
+                        "idvisitor": "04c00d64756f71fb",
+                        "id": "04c00d64756f71fb_8912098_70710196",
+                        "uuid": null,
+                        "url": "estudios.unir.net/programa/ec-esp-ma-ed-maestria-tecnologia-educativa-competencias-digitales-ec/539000113287/",
+                        "timestamp": "2019-03-10T12:58:42.000Z"
+                    },
+                    "04c00d64756f71fb_8912098_70710380": {
+                        "content_name": null,
+                        "duration": 20,
+                        "content_interaction": null,
+                        "content_piece": null,
+                        "area_producto_unir": {
+                            "area": "Educación",
+                            "nombrecurso": "Máster Universitario en Tecnología Educativa y Competencias Digitales"
+                        },
+                        "client_ip": "181.198.238.146",
+                        "idvisitor": "04c00d64756f71fb",
+                        "id": "04c00d64756f71fb_8912098_70710380",
+                        "uuid": null,
+                        "url": "estudios.unir.net/programa/ec-esp-ma-ed-maestria-tecnologia-educativa-competencias-digitales-ec/539000113287/",
+                        "timestamp": "2019-03-10T12:59:24.000Z"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "journey": {
+            "078e80552c89cf25": {
+                "journeys": {
+                    "078e80552c89cf25_8911765_70707529": {
+                        "content_name": null,
+                        "duration": null,
+                        "content_interaction": null,
+                        "content_piece": null,
+                        "area_producto_unir": {
+                            "area": "Ingeniería",
+                            "nombrecurso": "Maestría en Dirección e Ingeniería en Sitios Web"
+                        },
+                        "client_ip": "187.170.139.20",
+                        "idvisitor": "078e80552c89cf25",
+                        "id": "078e80552c89cf25_8911765_70707529",
+                        "uuid": null,
+                        "url": "estudios.unir.net/programa/mx-gen-ma-gene-maestrias-sep-mexico/539000073862/",
+                        "timestamp": "2019-03-10T12:46:27.000Z"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "journey": {
+            "09241ac5eca43a83": {
+                "journeys": {
+                    "09241ac5eca43a83_8912026_70709294": {
+                        "content_name": null,
+                        "duration": 51,
+                        "content_interaction": null,
+                        "content_piece": null,
+                        "area_producto_unir": {
+                            "area": "Ciencias de la Salud",
+                            "nombrecurso": "Diplomado en Ultrasonido a Distancia "
+                        },
+                        "client_ip": "81.33.90.20",
+                        "idvisitor": "09241ac5eca43a83",
+                        "id": "09241ac5eca43a83_8912026_70709294",
+                        "uuid": null,
+                        "url": "estudios.unir.net/programa/es-esp-cu-sal-experto-ecografia-musculoesqueletica/539000016822/?wcmp=309982343&wmatch=b&wkwd=+curso +ecografia&wad=260125903195&wpos=1t1&wdt=m&wdm=",
+                        "timestamp": "2019-03-10T12:53:57.000Z"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "journey": {
+            "0a1b48f114971d1f": {
+                "journeys": {
+                    "0a1b48f114971d1f_8911814_70707924": {
+                        "content_name": null,
+                        "duration": null,
+                        "content_interaction": null,
+                        "content_piece": null,
+                        "area_producto_unir": {
+                            "area": "Economía y Empresa",
+                            "nombrecurso": "Máster Universitario en Dirección y Gestión de Recursos Humanos"
+                        },
+                        "client_ip": "195.206.107.18",
+                        "idvisitor": "0a1b48f114971d1f",
+                        "id": "0a1b48f114971d1f_8911814_70707924",
+                        "uuid": null,
+                        "url": "estudios.unir.net/programa/es-gen-ma-em-masters-empresa-finanzas-marketing/539000032879/?siteid=4307243&mmacro=0&dclid=CJCW55nb9-ACFQqayAodprcMOg",
+                        "timestamp": "2019-03-10T12:47:53.000Z"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "journey": {
+            "0f2096e8717d2725": {
+                "journeys": {
+                    "0f2096e8717d2725_8911343_70704953": {
+                        "content_name": null,
+                        "duration": 40,
+                        "content_interaction": null,
+                        "content_piece": null,
+                        "area_producto_unir": {
+                            "area": "Marketing y Comunicación",
+                            "nombrecurso": "Máster Universitario en Comunicación e Identidad Corporativa"
+                        },
+                        "client_ip": "181.198.189.204",
+                        "idvisitor": "0f2096e8717d2725",
+                        "id": "0f2096e8717d2725_8911343_70704953",
+                        "uuid": null,
+                        "url": "estudios.unir.net/programa/ec-esp-ma-com-maestria-comunicacion-identidad-corporativa-ec/539000103835/",
+                        "timestamp": "2019-03-10T12:34:01.000Z"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "journey": {
+            "15911d98e800b6cd": {
+                "journeys": {
+                    "15911d98e800b6cd_8911418_70705481": {
+                        "content_name": null,
+                        "duration": null,
+                        "content_interaction": null,
+                        "content_piece": null,
+                        "area_producto_unir": {
+                            "area": "Jurídico",
+                            "nombrecurso": "Maestría en Propiedad Intelectual en Línea "
+                        },
+                        "client_ip": "90.174.4.123",
+                        "idvisitor": "15911d98e800b6cd",
+                        "id": "15911d98e800b6cd_8911418_70705481",
+                        "uuid": null,
+                        "url": "estudios.unir.net/programa/es-esp-ma-jur-master-universitario-en-propiedad-intelectual-it-law/539000015796/?C3=cwBlAGcAdQByAGEAcgBpAGMAbwBhAG4AdABvAG4AaQBvAEAAZwBtAGEAaQBsAC4AYwBvAG0A&C4=MwA0ADYAMwAwADUANAA4ADEANAAwAA==&C1=QQBuAHQAbwBuAGkAbwA=&C2=UwBlAGcAdQByAGEAIABSAGkAYwBvAC4A",
+                        "timestamp": "2019-03-10T12:36:30.000Z"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "journey": {
+            "18d4ae1c17ad072f": {
+                "journeys": {
+                    "18d4ae1c17ad072f_8911385_70705236": {
+                        "content_name": null,
+                        "duration": null,
+                        "content_interaction": null,
+                        "content_piece": null,
+                        "area_producto_unir": {
+                            "area": "Ingeniería",
+                            "nombrecurso": "Maestría en Dirección e Ingeniería en Sitios Web"
+                        },
+                        "client_ip": "187.133.182.169",
+                        "idvisitor": "18d4ae1c17ad072f",
+                        "id": "18d4ae1c17ad072f_8911385_70705236",
+                        "uuid": null,
+                        "url": "estudios.unir.net/programa/mx-gen-ma-gene-maestrias-sep-mexico/539000073862/",
+                        "timestamp": "2019-03-10T12:35:23.000Z"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "journey": {
+            "1a76f7f043767578": {
+                "journeys": {
+                    "1a76f7f043767578_8911239_70704275": {
+                        "content_name": null,
+                        "duration": 51,
+                        "content_interaction": null,
+                        "content_piece": null,
+                        "area_producto_unir": {
+                            "area": "Artes y Humanidades",
+                            "nombrecurso": "Maestría en Musicoterapia en Línea "
+                        },
+                        "client_ip": "190.152.163.136",
+                        "idvisitor": "1a76f7f043767578",
+                        "id": "1a76f7f043767578_8911239_70704275",
+                        "uuid": null,
+                        "url": "estudios.unir.net/programa/ec-esp-ma-art-maestria-musicoterapia/539000297133/",
+                        "timestamp": "2019-03-10T12:31:02.000Z"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "journey": {
+            "1a984781d1acb298": {
+                "journeys": {
+                    "1a984781d1acb298_8911811_70707901": {
+                        "content_name": null,
+                        "duration": null,
+                        "content_interaction": null,
+                        "content_piece": null,
+                        "area_producto_unir": {
+                            "area": "Ingeniería",
+                            "nombrecurso": "Maestría en Dirección e Ingeniería en Sitios Web"
+                        },
+                        "client_ip": "177.236.129.137",
+                        "idvisitor": "1a984781d1acb298",
+                        "id": "1a984781d1acb298_8911811_70707901",
+                        "uuid": null,
+                        "url": "estudios.unir.net/programa/mx-gen-ma-gene-maestrias-sep-mexico/539000073862/?siteid=4307243&mmacro=0&dclid=CMyAvPfa9-ACFY_FwAodwKYAdg",
+                        "timestamp": "2019-03-10T12:47:51.000Z"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "journey": {
+            "1e4db22d34f09dbf": {
+                "journeys": {
+                    "1e4db22d34f09dbf_8911463_70705780": {
+                        "content_name": null,
+                        "duration": 50,
+                        "content_interaction": null,
+                        "content_piece": null,
+                        "area_producto_unir": {
+                            "area": "Educación",
+                            "nombrecurso": "Máster Universitario en Psicopedagogía"
+                        },
+                        "client_ip": "93.114.243.1",
+                        "idvisitor": "1e4db22d34f09dbf",
+                        "id": "1e4db22d34f09dbf_8911463_70705780",
+                        "uuid": null,
+                        "url": "estudios.unir.net/programa/es-esp-ma-ed-master-online-psicopedagogia/539000012483/?wcmp=603796923&wmatch=b&wkwd=+inteligencias +multiples&wad=276789877852&wpos=1t1&wdt=m&wdm=",
+                        "timestamp": "2019-03-10T12:38:01.000Z"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "journey": {
+            "22d1174a37147230": {
+                "journeys": {
+                    "22d1174a37147230_8911719_70707232": {
+                        "content_name": null,
+                        "duration": null,
+                        "content_interaction": null,
+                        "content_piece": null,
+                        "area_producto_unir": {
+                            "area": "Economía y Empresa",
+                            "nombrecurso": "Máster Universitario en Dirección y Gestión de Recursos Humanos"
+                        },
+                        "client_ip": "181.57.125.167",
+                        "idvisitor": "22d1174a37147230",
+                        "id": "22d1174a37147230_8911719_70707232",
+                        "uuid": null,
+                        "url": "estudios.unir.net/programa/co-esp-ma-em-mastria-direccion-gestion-recursos-humanos-colombia/539000086775/",
+                        "timestamp": "2019-03-10T12:45:03.000Z"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "journey": {
+            "2303fd3c224680cd": {
+                "journeys": {
+                    "2303fd3c224680cd_8911726_70707259": {
+                        "content_name": null,
+                        "duration": 29,
+                        "content_interaction": null,
+                        "content_piece": null,
+                        "area_producto_unir": {
+                            "area": "Ingeniería",
+                            "nombrecurso": "Maestría en Dirección e Ingeniería en Sitios Web"
+                        },
+                        "client_ip": "189.218.29.179",
+                        "idvisitor": "2303fd3c224680cd",
+                        "id": "2303fd3c224680cd_8911726_70707259",
+                        "uuid": null,
+                        "url": "estudios.unir.net/programa/mx-gen-ma-gene-maestrias-sep-mexico/539000073862/",
+                        "timestamp": "2019-03-10T12:45:21.000Z"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "journey": {
+            "2338917bd35a6b5d": {
+                "journeys": {
+                    "2338917bd35a6b5d_8912203_70710269": {
+                        "content_name": null,
+                        "duration": null,
+                        "content_interaction": null,
+                        "content_piece": null,
+                        "area_producto_unir": {
+                            "area": "Ingeniería",
+                            "nombrecurso": "Maestría en Ingeniería de Software y Sistemas Informáticos"
+                        },
+                        "client_ip": "187.204.147.240",
+                        "idvisitor": "2338917bd35a6b5d",
+                        "id": "2338917bd35a6b5d_8912203_70710269",
+                        "uuid": null,
+                        "url": "estudios.unir.net/programa/mx-esp-ma-ing-maestria-ingenieria-software/539000345417/",
+                        "timestamp": "2019-03-10T12:58:58.000Z"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "journey": {
+            "2465d63aacdcb569": {
+                "journeys": {
+                    "2465d63aacdcb569_8911658_70706975": {
+                        "content_name": null,
+                        "duration": null,
+                        "content_interaction": null,
+                        "content_piece": null,
+                        "area_producto_unir": {
+                            "area": "Ciencias de la Salud",
+                            "nombrecurso": "Máster Universitario en Dirección y Gestión Sanitaria"
+                        },
+                        "client_ip": "92.186.158.117",
+                        "idvisitor": "2465d63aacdcb569",
+                        "id": "2465d63aacdcb569_8911658_70706975",
+                        "uuid": null,
+                        "url": "estudios.unir.net/programa/es-esp-ma-sal-master-direccion-gestion-sanitaria/539000052345/?siteid=4307243&mmacro=0&dclid=CKPHgqHa9-ACFQa1UQodRCQBeA",
+                        "timestamp": "2019-03-10T12:43:35.000Z"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "journey": {
+            "2a2b46d8f47d93a5": {
+                "journeys": {
+                    "2a2b46d8f47d93a5_8911594_70706688": {
+                        "content_name": null,
+                        "duration": 40,
+                        "content_interaction": null,
+                        "content_piece": null,
+                        "area_producto_unir": {
+                            "area": "Economía y Empresa",
+                            "nombrecurso": "Maestría en Dirección de Operaciones y Calidad"
+                        },
+                        "client_ip": "177.249.213.193",
+                        "idvisitor": "2a2b46d8f47d93a5",
+                        "id": "2a2b46d8f47d93a5_8911594_70706688",
+                        "uuid": null,
+                        "url": "estudios.unir.net/programa/mx-esp-ma-ing-maestria-sep-direccion-operaciones-calidad/539000297649/",
+                        "timestamp": "2019-03-10T12:42:08.000Z"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "journey": {
+            "2a7e858508d8aaff": {
+                "journeys": {
+                    "2a7e858508d8aaff_8911319_70704804": {
+                        "content_name": null,
+                        "duration": 20,
+                        "content_interaction": null,
+                        "content_piece": null,
+                        "area_producto_unir": {
+                            "area": "Ciencias Sociales y del Trabajo",
+                            "nombrecurso": "Maestría en Trabajo Social en Línea "
+                        },
+                        "client_ip": "77.229.16.211",
+                        "idvisitor": "2a7e858508d8aaff",
+                        "id": "2a7e858508d8aaff_8911319_70704804",
+                        "uuid": null,
+                        "url": "estudios.unir.net/programa/es-esp-ma-soc-master-intervencion-social/539000009943/?wcmp=305214143&wmatch=b&wkwd=+master +atencion +temprana&wad=260117195960&wpos=1t2&wdt=m&wdm=",
+                        "timestamp": "2019-03-10T12:33:25.000Z"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "journey": {
+            "32ddaf0e45b10027": {
+                "journeys": {
+                    "32ddaf0e45b10027_8912205_70710281": {
+                        "content_name": null,
+                        "duration": null,
+                        "content_interaction": null,
+                        "content_piece": null,
+                        "area_producto_unir": {
+                            "area": "Economía y Empresa",
+                            "nombrecurso": "Máster Universitario en Dirección y Gestión de Recursos Humanos"
+                        },
+                        "client_ip": "190.9.211.138",
+                        "idvisitor": "32ddaf0e45b10027",
+                        "id": "32ddaf0e45b10027_8912205_70710281",
+                        "uuid": null,
+                        "url": "estudios.unir.net/programa/co-esp-ma-em-mastria-direccion-gestion-recursos-humanos-colombia/539000086775/",
+                        "timestamp": "2019-03-10T12:59:04.000Z"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "journey": {
+            "3c7fb029bf9bccab": {
+                "journeys": {
+                    "3c7fb029bf9bccab_8911452_70706518": {
+                        "content_name": null,
+                        "duration": 35,
+                        "content_interaction": null,
+                        "content_piece": null,
+                        "area_producto_unir": {
+                            "area": "Marketing y Comunicación",
+                            "idcurso": "27766",
+                            "nombrecurso": "Licenciatura en Comunicación"
+                        },
+                        "client_ip": "189.191.4.110",
+                        "idvisitor": "3c7fb029bf9bccab",
+                        "id": "3c7fb029bf9bccab_8911452_70706518",
+                        "uuid": null,
+                        "url": "estudios.unir.net/graciasmexico/?idCurso=27766&idCupon=1552225266569",
+                        "timestamp": "2019-03-10T12:41:10.000Z"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "journey": {
+            "4550b877d7affc63": {
+                "journeys": {
+                    "4550b877d7affc63_8911974_70708932": {
+                        "content_name": null,
+                        "duration": 35,
+                        "content_interaction": null,
+                        "content_piece": null,
+                        "area_producto_unir": {
+                            "area": "Jurídico",
+                            "nombrecurso": "Maestría en Derecho Penal Económico en Línea "
+                        },
+                        "client_ip": "81.43.169.25",
+                        "idvisitor": "4550b877d7affc63",
+                        "id": "4550b877d7affc63_8911974_70708932",
+                        "uuid": null,
+                        "url": "estudios.unir.net/programa/es-esp-ma-jur-master-oficial-derecho-penal-economico/539000095391/?wcmp=616005779&wmatch=e&wkwd=master online derecho penal&wad=322678247261&wpos=1t1&wdt=c&wdm=",
+                        "timestamp": "2019-03-10T12:52:20.000Z"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "journey": {
+            "460616b0e91a3291": {
+                "journeys": {
+                    "460616b0e91a3291_8911453_70705735": {
+                        "content_name": null,
+                        "duration": 10,
+                        "content_interaction": null,
+                        "content_piece": null,
+                        "area_producto_unir": {
+                            "area": "Marketing y Comunicación",
+                            "nombrecurso": "Máster Universitario en Marketing Digital y Comercio Electrónico"
+                        },
+                        "client_ip": "37.14.61.69",
+                        "idvisitor": "460616b0e91a3291",
+                        "id": "460616b0e91a3291_8911453_70705735",
+                        "uuid": null,
+                        "url": "estudios.unir.net/programa/es-esp-ma-em-master-marketing-digital-ecommerce/539000015388/?wcmp=727298589&wmatch=b&wkwd=+curso +online +marketing&wad=260091285831&wpos=1t2&wdt=m&wdm=",
+                        "timestamp": "2019-03-10T12:37:43.000Z"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "journey": {
+            "46145b8e1303615d": {
+                "journeys": {
+                    "46145b8e1303615d_8912059_70709507": {
+                        "content_name": null,
+                        "duration": 22,
+                        "content_interaction": null,
+                        "content_piece": null,
+                        "area_producto_unir": {
+                            "area": "Ciencias Sociales y del Trabajo",
+                            "nombrecurso": "Maestría en Trabajo Social en Línea "
+                        },
+                        "client_ip": "91.116.72.108",
+                        "idvisitor": "46145b8e1303615d",
+                        "id": "46145b8e1303615d_8912059_70709507",
+                        "uuid": null,
+                        "url": "estudios.unir.net/programa/es-esp-ma-soc-master-intervencion-social/539000009943/?wcmp=305214143&wmatch=e&wkwd=master intervencion social&wad=260117195999&wpos=1t1&wdt=m&wdm=",
+                        "timestamp": "2019-03-10T12:55:05.000Z"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "journey": {
+            "48c7a4f0d7e7224e": {
+                "journeys": {
+                    "48c7a4f0d7e7224e_8911439_70705603": {
+                        "content_name": null,
+                        "duration": 45,
+                        "content_interaction": null,
+                        "content_piece": null,
+                        "area_producto_unir": {
+                            "area": "Ciencias Sociales y del Trabajo",
+                            "nombrecurso": "Maestría en Salud Ocupacional en Línea "
+                        },
+                        "client_ip": "179.49.52.80",
+                        "idvisitor": "48c7a4f0d7e7224e",
+                        "id": "48c7a4f0d7e7224e_8911439_70705603",
+                        "uuid": null,
+                        "url": "estudios.unir.net/programa/ec-esp-ma-soc-maestria-prevencion-riesgos-laborales-2/539000026842/",
+                        "timestamp": "2019-03-10T12:37:03.000Z"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "journey": {
+            "4a0d90a1094527f9": {
+                "journeys": {
+                    "4a0d90a1094527f9_8911442_70705634": {
+                        "content_name": null,
+                        "duration": null,
+                        "content_interaction": null,
+                        "content_piece": null,
+                        "area_producto_unir": {
+                            "area": "Marketing y Comunicación",
+                            "nombrecurso": "Máster Universitario en Marketing Digital y Comercio Electrónico"
+                        },
+                        "client_ip": "212.183.213.119",
+                        "idvisitor": "4a0d90a1094527f9",
+                        "id": "4a0d90a1094527f9_8911442_70705634",
+                        "uuid": null,
+                        "url": "estudios.unir.net/programa/es-esp-ma-em-master-marketing-digital-ecommerce/539000015388/?wcmp=727298589&wmatch=b&wkwd=+curso +marketing +digital&wad=260091285831&wpos=1t1&wdt=m&wdm=",
+                        "timestamp": "2019-03-10T12:37:11.000Z"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "journey": {
+            "4aa8fb186cde485a": {
+                "journeys": {
+                    "4aa8fb186cde485a_8911397_70705504": {
+                        "content_name": null,
+                        "duration": 5,
+                        "content_interaction": null,
+                        "content_piece": null,
+                        "area_producto_unir": {
+                            "area": "Ciencias de la Salud",
+                            "nombrecurso": "Máster Universitario en Dirección y Gestión Sanitaria"
+                        },
+                        "client_ip": "31.4.207.209",
+                        "idvisitor": "4aa8fb186cde485a",
+                        "id": "4aa8fb186cde485a_8911397_70705504",
+                        "uuid": null,
+                        "url": "estudios.unir.net/programa/es-esp-ma-sal-master-direccion-gestion-sanitaria/539000052345/?wcmp=381007463&wmatch=b&wkwd=+master +gestion +clinica&wad=331242372858&wpos=1t1&wdt=m&wdm=",
+                        "timestamp": "2019-03-10T12:36:35.000Z"
+                    },
+                    "4aa8fb186cde485a_8911397_70705314": {
+                        "content_name": null,
+                        "duration": null,
+                        "content_interaction": null,
+                        "content_piece": null,
+                        "area_producto_unir": {
+                            "area": "Ciencias de la Salud",
+                            "nombrecurso": "Máster Universitario en Dirección y Gestión Sanitaria"
+                        },
+                        "client_ip": "31.4.207.209",
+                        "idvisitor": "4aa8fb186cde485a",
+                        "id": "4aa8fb186cde485a_8911397_70705314",
+                        "uuid": null,
+                        "url": "estudios.unir.net/programa/es-esp-ma-sal-master-direccion-gestion-sanitaria/539000052345/?wcmp=381007463&wmatch=b&wkwd=+master +gestion +clinica&wad=331242372858&wpos=1t1&wdt=m&wdm=",
+                        "timestamp": "2019-03-10T12:35:42.000Z"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "journey": {
+            "4aead12c066e7446": {
+                "opportunities": {
+                    "0e6f90cc-4333-11e9-a48e-005056ab32f0": {
+                        "area": "Ciencias Sociales y del Trabajo",
+                        "tipo": "POSTU",
+                        "fase": "no_contactado",
+                        "idvisitor": "4aead12c066e7446",
+                        "nombrecurso": "Maestría en Salud Ocupacional en Línea ",
+                        "date_modified": "2019-03-10T13:50:17+01:00",
+                        "prkt_paises_id1_c": "CO",
+                        "price_c": "0.000000",
+                        "name": "MU  en Prevención de Riesgos Laborales (PRL)",
+                        "date_entered": "2019-03-10T13:50:00+01:00",
+                        "idcurso": "7672",
+                        "email": "d29da3813cd013059a0bdfa644b187ce",
+                        "status": "asignado"
+                    }
+                },
+                "client": {
+                    "hash": "d29da3813cd013059a0bdfa644b187ce",
+                    "n_opportunities": 2,
+                    "client_id": "7f49a087-87be-0184-075a-58de7cd73e94",
+                    "full_name": "lina maria rodas acevedo",
+                    "nombre": "lina maria",
+                    "apellidos": "rodas acevedo",
+                    "telefono": "00573012575135",
+                    "email": "rodaslimar@hotmail.com",
+                    "date_modified": "2019-03-10T13:50:18+01:00",
+                    "pais_de_residencia_c": "Colombia",
+                    "prkt_paises_id1_c": "CO",
+                    "aceptacion_gdpr_c": "1",
+                    "date_entered": "2017-03-31T17:41:56+02:00",
+                    "hash_phone": "b7f87e59d97a585c0901f00ec3fb858e",
+                    "idvisitor": "4aead12c066e7446"
+                }
+            }
+        }
+    },
+    {
+        "journey": {
+            "4da6f7ed2618c0b3": {
+                "journeys": {
+                    "4da6f7ed2618c0b3_8911567_70706409": {
+                        "content_name": null,
+                        "duration": null,
+                        "content_interaction": null,
+                        "content_piece": null,
+                        "area_producto_unir": {
+                            "area": "Ingeniería",
+                            "nombrecurso": "Maestría en Dirección e Ingeniería en Sitios Web"
+                        },
+                        "client_ip": "200.68.146.14",
+                        "idvisitor": "4da6f7ed2618c0b3",
+                        "id": "4da6f7ed2618c0b3_8911567_70706409",
+                        "uuid": null,
+                        "url": "estudios.unir.net/programa/mx-gen-ma-gene-maestrias-sep-mexico/539000073862/",
+                        "timestamp": "2019-03-10T12:40:46.000Z"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "journey": {
+            "51b0c9ad6e51c385": {
+                "journeys": {
+                    "51b0c9ad6e51c385_8911623_70706769": {
+                        "content_name": null,
+                        "duration": 23,
+                        "content_interaction": null,
+                        "content_piece": null,
+                        "area_producto_unir": {
+                            "area": "Economía y Empresa",
+                            "nombrecurso": "Máster Universitario en Dirección y Gestión de Recursos Humanos"
+                        },
+                        "client_ip": "181.55.220.21",
+                        "idvisitor": "51b0c9ad6e51c385",
+                        "id": "51b0c9ad6e51c385_8911623_70706769",
+                        "uuid": null,
+                        "url": "estudios.unir.net/programa/co-esp-ma-em-maestria-direccion-comercial-ventas/539000347145/",
+                        "timestamp": "2019-03-10T12:42:26.000Z"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "journey": {
+            "55db8854f63388b3": {
+                "journeys": {
+                    "55db8854f63388b3_8912139_70710009": {
+                        "content_name": null,
+                        "duration": null,
+                        "content_interaction": null,
+                        "content_piece": null,
+                        "area_producto_unir": {
+                            "area": "Economía y Empresa",
+                            "nombrecurso": "Máster Universitario en Dirección y Gestión de Recursos Humanos"
+                        },
+                        "client_ip": "81.184.45.162",
+                        "idvisitor": "55db8854f63388b3",
+                        "id": "55db8854f63388b3_8912139_70710009",
+                        "uuid": null,
+                        "url": "estudios.unir.net/programa/es-esp-ma-em-master-direccion-gestion-recursos-humanos/539000082463/?wcmp=439514663&wmatch=e&wkwd=master universitario recursos humanos&wad=260133678232&wpos=1t1&wdt=m&wdm=",
+                        "timestamp": "2019-03-10T12:57:44.000Z"
+                    },
+                    "55db8854f63388b3_8912139_70709953": {
+                        "content_name": null,
+                        "duration": 16,
+                        "content_interaction": null,
+                        "content_piece": null,
+                        "area_producto_unir": {
+                            "area": "Economía y Empresa",
+                            "nombrecurso": "Máster Universitario en Dirección y Gestión de Recursos Humanos"
+                        },
+                        "client_ip": "81.184.45.162",
+                        "idvisitor": "55db8854f63388b3",
+                        "id": "55db8854f63388b3_8912139_70709953",
+                        "uuid": null,
+                        "url": "estudios.unir.net/programa/es-esp-ma-em-master-direccion-gestion-recursos-humanos/539000082463/?wcmp=439514663&wmatch=e&wkwd=master universitario recursos humanos&wad=260133678232&wpos=1t1&wdt=m&wdm=",
+                        "timestamp": "2019-03-10T12:57:28.000Z"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "journey": {
+            "60100c4515868b6a": {
+                "journeys": {
+                    "60100c4515868b6a_8911639_70706900": {
+                        "content_name": null,
+                        "duration": 41,
+                        "content_interaction": null,
+                        "content_piece": null,
+                        "area_producto_unir": {
+                            "area": "Ingeniería",
+                            "nombrecurso": "Maestría en Industria 4.0 "
+                        },
+                        "client_ip": "181.236.133.255",
+                        "idvisitor": "60100c4515868b6a",
+                        "id": "60100c4515868b6a_8911639_70706900",
+                        "uuid": null,
+                        "url": "estudios.unir.net/programa/co-esp-ma-ing-maestria-industria-4/539000310003/",
+                        "timestamp": "2019-03-10T12:43:04.000Z"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "journey": {
+            "60c7105b98b31ef6": {
+                "journeys": {
+                    "60c7105b98b31ef6_8911965_70708844": {
+                        "content_name": null,
+                        "duration": null,
+                        "content_interaction": null,
+                        "content_piece": null,
+                        "area_producto_unir": {
+                            "area": "Ciencias de la Salud",
+                            "nombrecurso": "Maestría en Cosmetología Química en Línea "
+                        },
+                        "client_ip": "37.29.192.133",
+                        "idvisitor": "60c7105b98b31ef6",
+                        "id": "60c7105b98b31ef6_8911965_70708844",
+                        "uuid": null,
+                        "url": "estudios.unir.net/programa/es-esp-ma-sal-master-dermofarmacia-formulacion-cosmetica/539000335235/?wcmp=439785623&wmatch=b&wkwd=+curso +cosmetica&wad=307730650060&wpos=1t1&wdt=m&wdm=",
+                        "timestamp": "2019-03-10T12:51:54.000Z"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "journey": {
+            "621a450e79d2d2f5": {
+                "journeys": {
+                    "621a450e79d2d2f5_8911670_70707034": {
+                        "content_name": null,
+                        "duration": 50,
+                        "content_interaction": null,
+                        "content_piece": null,
+                        "area_producto_unir": {
+                            "area": "Jurídico",
+                            "nombrecurso": "Maestría en Derecho del Comercio Internacional en Línea "
+                        },
+                        "client_ip": "186.84.1.219",
+                        "idvisitor": "621a450e79d2d2f5",
+                        "id": "621a450e79d2d2f5_8911670_70707034",
+                        "uuid": null,
+                        "url": "estudios.unir.net/programa/co-esp-ma-jur-maestria-derecho-comercio-internacional-colombia/539000084828/",
+                        "timestamp": "2019-03-10T12:44:01.000Z"
+                    },
+                    "621a450e79d2d2f5_8911670_70707519": {
+                        "content_name": null,
+                        "duration": 30,
+                        "content_interaction": null,
+                        "content_piece": null,
+                        "area_producto_unir": {
+                            "area": "Jurídico",
+                            "nombrecurso": "Maestría en Derecho del Comercio Internacional en Línea "
+                        },
+                        "client_ip": "186.84.1.219",
+                        "idvisitor": "621a450e79d2d2f5",
+                        "id": "621a450e79d2d2f5_8911670_70707519",
+                        "uuid": null,
+                        "url": "estudios.unir.net/programa/co-esp-ma-jur-maestria-derecho-comercio-internacional-colombia/539000084828/",
+                        "timestamp": "2019-03-10T12:46:22.000Z"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "journey": {
+            "636c829922c7201f": {
+                "journeys": {
+                    "636c829922c7201f_8911271_70704952": {
+                        "content_name": null,
+                        "duration": null,
+                        "content_interaction": null,
+                        "content_piece": null,
+                        "area_producto_unir": {
+                            "area": "Ciencias Sociales y del Trabajo",
+                            "nombrecurso": "Máster Universitario en Sistemas Integrados de Gestión"
+                        },
+                        "client_ip": "190.156.51.24",
+                        "idvisitor": "636c829922c7201f",
+                        "id": "636c829922c7201f_8911271_70704952",
+                        "uuid": null,
+                        "url": "estudios.unir.net/programa/co-esp-ma-soc-maestria-sistemas-integrados-gestion/539000027336/",
+                        "timestamp": "2019-03-10T12:33:59.000Z"
+                    },
+                    "636c829922c7201f_8911271_70704480": {
+                        "content_name": null,
+                        "duration": 12,
+                        "content_interaction": null,
+                        "content_piece": null,
+                        "area_producto_unir": {
+                            "area": "Ciencias Sociales y del Trabajo",
+                            "nombrecurso": "Máster Universitario en Sistemas Integrados de Gestión"
+                        },
+                        "client_ip": "190.156.51.24",
+                        "idvisitor": "636c829922c7201f",
+                        "id": "636c829922c7201f_8911271_70704480",
+                        "uuid": null,
+                        "url": "estudios.unir.net/programa/co-esp-ma-soc-maestria-sistemas-integrados-gestion/539000027336/",
+                        "timestamp": "2019-03-10T12:32:01.000Z"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "journey": {
+            "64e42dfe9f36cd6a": {
+                "journeys": {
+                    "64e42dfe9f36cd6a_8911977_70708959": {
+                        "content_name": null,
+                        "duration": 30,
+                        "content_interaction": null,
+                        "content_piece": null,
+                        "area_producto_unir": {
+                            "area": "Marketing y Comunicación",
+                            "nombrecurso": "Máster Universitario en Marketing Digital y Comercio Electrónico"
+                        },
+                        "client_ip": "83.53.247.116",
+                        "idvisitor": "64e42dfe9f36cd6a",
+                        "id": "64e42dfe9f36cd6a_8911977_70708959",
+                        "uuid": null,
+                        "url": "estudios.unir.net/programa/es-esp-ma-em-master-marketing-digital-ecommerce/539000015388/",
+                        "timestamp": "2019-03-10T12:52:22.000Z"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "journey": {
+            "6f05aaeaa98065cb": {
+                "journeys": {
+                    "6f05aaeaa98065cb_8911608_70706667": {
+                        "content_name": null,
+                        "duration": null,
+                        "content_interaction": null,
+                        "content_piece": null,
+                        "area_producto_unir": {
+                            "area": "Ingeniería",
+                            "nombrecurso": "Maestría en Diseño Gráfico Digital en Línea "
+                        },
+                        "client_ip": "85.58.236.104",
+                        "idvisitor": "6f05aaeaa98065cb",
+                        "id": "6f05aaeaa98065cb_8911608_70706667",
+                        "uuid": null,
+                        "url": "estudios.unir.net/programa/es-esp-ma-ing-master-diseno-grafico-digital/539000248334/?wcmp=785410269&wmatch=e&wkwd=curso de diseño grafico online&wad=260124893519&wpos=1t1&wdt=c&wdm=",
+                        "timestamp": "2019-03-10T12:42:02.000Z"
+                    },
+                    "6f05aaeaa98065cb_8911608_70706681": {
+                        "content_name": null,
+                        "duration": 36,
+                        "content_interaction": null,
+                        "content_piece": null,
+                        "area_producto_unir": {
+                            "area": "Ingeniería",
+                            "nombrecurso": "Maestría en Diseño Gráfico Digital en Línea "
+                        },
+                        "client_ip": "85.58.236.104",
+                        "idvisitor": "6f05aaeaa98065cb",
+                        "id": "6f05aaeaa98065cb_8911608_70706681",
+                        "uuid": null,
+                        "url": "estudios.unir.net/programa/es-esp-ma-ing-master-diseno-grafico-digital/539000248334/?wcmp=785410269&wmatch=e&wkwd=curso de diseño grafico online&wad=260124893519&wpos=1t1&wdt=c&wdm=",
+                        "timestamp": "2019-03-10T12:42:02.000Z"
+                    },
+                    "6f05aaeaa98065cb_8911608_70706809": {
+                        "content_name": null,
+                        "duration": 10,
+                        "content_interaction": null,
+                        "content_piece": null,
+                        "area_producto_unir": {
+                            "area": "Ingeniería",
+                            "nombrecurso": "Maestría en Diseño Gráfico Digital en Línea "
+                        },
+                        "client_ip": "85.58.236.104",
+                        "idvisitor": "6f05aaeaa98065cb",
+                        "id": "6f05aaeaa98065cb_8911608_70706809",
+                        "uuid": null,
+                        "url": "estudios.unir.net/programa/es-esp-ma-ing-master-diseno-grafico-digital/539000248334/?wcmp=785410269&wmatch=e&wkwd=curso de diseño grafico online&wad=260124893519&wpos=1t1&wdt=c&wdm=",
+                        "timestamp": "2019-03-10T12:42:38.000Z"
+                    },
+                    "6f05aaeaa98065cb_8911608_70706866": {
+                        "content_name": null,
+                        "duration": 2,
+                        "content_interaction": null,
+                        "content_piece": null,
+                        "area_producto_unir": {
+                            "area": "Ingeniería",
+                            "nombrecurso": "Maestría en Diseño Gráfico Digital en Línea "
+                        },
+                        "client_ip": "85.58.236.104",
+                        "idvisitor": "6f05aaeaa98065cb",
+                        "id": "6f05aaeaa98065cb_8911608_70706866",
+                        "uuid": null,
+                        "url": "estudios.unir.net/programa/es-esp-ma-ing-master-diseno-grafico-digital/539000248334/?wcmp=785410269&wmatch=e&wkwd=curso de diseño grafico online&wad=260124893519&wpos=1t1&wdt=c&wdm=",
+                        "timestamp": "2019-03-10T12:42:59.000Z"
+                    },
+                    "6f05aaeaa98065cb_8911608_70706869": {
+                        "content_name": null,
+                        "duration": null,
+                        "content_interaction": null,
+                        "content_piece": null,
+                        "area_producto_unir": {
+                            "area": "Ingeniería",
+                            "idcurso": "103562",
+                            "nombrecurso": "Maestría en Diseño Gráfico Digital en Línea "
+                        },
+                        "client_ip": "85.58.236.104",
+                        "idvisitor": "6f05aaeaa98065cb",
+                        "id": "6f05aaeaa98065cb_8911608_70706869",
+                        "uuid": null,
+                        "url": "estudios.unir.net/gracias/?idCurso=103562&idCupon=1552225380567",
+                        "timestamp": "2019-03-10T12:43:01.000Z"
+                    },
+                    "6f05aaeaa98065cb_8911608_70706865": {
+                        "content_name": null,
+                        "duration": null,
+                        "content_interaction": null,
+                        "content_piece": null,
+                        "area_producto_unir": {
+                            "area": "Ingeniería",
+                            "nombrecurso": "Maestría en Diseño Gráfico Digital en Línea "
+                        },
+                        "client_ip": "85.58.236.104",
+                        "idvisitor": "6f05aaeaa98065cb",
+                        "id": "6f05aaeaa98065cb_8911608_70706865",
+                        "uuid": null,
+                        "url": "estudios.unir.net/programa/es-esp-ma-ing-master-diseno-grafico-digital/539000248334/?wcmp=785410269&wmatch=e&wkwd=curso de diseño grafico online&wad=260124893519&wpos=1t1&wdt=c&wdm=",
+                        "timestamp": "2019-03-10T12:42:59.000Z"
+                    },
+                    "6f05aaeaa98065cb_8911608_70706668": {
+                        "content_name": null,
+                        "duration": null,
+                        "content_interaction": null,
+                        "content_piece": null,
+                        "area_producto_unir": {
+                            "area": "Ingeniería",
+                            "nombrecurso": "Maestría en Diseño Gráfico Digital en Línea "
+                        },
+                        "client_ip": "85.58.236.104",
+                        "idvisitor": "6f05aaeaa98065cb",
+                        "id": "6f05aaeaa98065cb_8911608_70706668",
+                        "uuid": null,
+                        "url": "estudios.unir.net/programa/es-esp-ma-ing-master-diseno-grafico-digital/539000248334/?wcmp=785410269&wmatch=e&wkwd=curso de diseño grafico online&wad=260124893519&wpos=1t1&wdt=c&wdm=",
+                        "timestamp": "2019-03-10T12:42:02.000Z"
+                    },
+                    "6f05aaeaa98065cb_8911608_70706669": {
+                        "content_name": null,
+                        "duration": null,
+                        "content_interaction": null,
+                        "content_piece": null,
+                        "area_producto_unir": {
+                            "area": "Ingeniería",
+                            "nombrecurso": "Maestría en Diseño Gráfico Digital en Línea "
+                        },
+                        "client_ip": "85.58.236.104",
+                        "idvisitor": "6f05aaeaa98065cb",
+                        "id": "6f05aaeaa98065cb_8911608_70706669",
+                        "uuid": null,
+                        "url": "estudios.unir.net/programa/es-esp-ma-ing-master-diseno-grafico-digital/539000248334/?wcmp=785410269&wmatch=e&wkwd=curso de diseño grafico online&wad=260124893519&wpos=1t1&wdt=c&wdm=",
+                        "timestamp": "2019-03-10T12:42:02.000Z"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "journey": {
+            "73a9ba1a18207c30": {
+                "journeys": {
+                    "73a9ba1a18207c30_8912186_70710184": {
+                        "content_name": null,
+                        "duration": 10,
+                        "content_interaction": null,
+                        "content_piece": null,
+                        "area_producto_unir": {
+                            "area": "Artes y Humanidades",
+                            "nombrecurso": "Máster Universitario en Estudios Avanzados de Teatro"
+                        },
+                        "client_ip": "181.49.90.138",
+                        "idvisitor": "73a9ba1a18207c30",
+                        "id": "73a9ba1a18207c30_8912186_70710184",
+                        "uuid": null,
+                        "url": "estudios.unir.net/programa/co-esp-ma-art-maestria-universitaria-estudios-teatro-colombia/539000049296/",
+                        "timestamp": "2019-03-10T12:58:36.000Z"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "journey": {
+            "75094b4aadea5556": {
+                "journeys": {
+                    "75094b4aadea5556_8911431_70705552": {
+                        "content_name": null,
+                        "duration": null,
+                        "content_interaction": null,
+                        "content_piece": null,
+                        "area_producto_unir": {
+                            "area": "Economía y Empresa",
+                            "nombrecurso": "Máster Universitario en Dirección y Gestión de Recursos Humanos"
+                        },
+                        "client_ip": "186.29.181.40",
+                        "idvisitor": "75094b4aadea5556",
+                        "id": "75094b4aadea5556_8911431_70705552",
+                        "uuid": null,
+                        "url": "estudios.unir.net/programa/co-esp-ma-em-mastria-direccion-gestion-recursos-humanos-colombia/539000086775/",
+                        "timestamp": "2019-03-10T12:36:49.000Z"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "journey": {
+            "7517ecd4b468f3ac": {
+                "journeys": {
+                    "7517ecd4b468f3ac_8911507_70706021": {
+                        "content_name": null,
+                        "duration": null,
+                        "content_interaction": null,
+                        "content_piece": null,
+                        "area_producto_unir": {
+                            "area": "Ingeniería",
+                            "nombrecurso": "Maestría en Dirección e Ingeniería en Sitios Web"
+                        },
+                        "client_ip": "189.215.19.173",
+                        "idvisitor": "7517ecd4b468f3ac",
+                        "id": "7517ecd4b468f3ac_8911507_70706021",
+                        "uuid": null,
+                        "url": "estudios.unir.net/programa/mx-gen-ma-gene-maestrias-sep-mexico/539000073862/",
+                        "timestamp": "2019-03-10T12:39:11.000Z"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "journey": {
+            "75ad98a69a7f08ef": {
+                "journeys": {
+                    "75ad98a69a7f08ef_8911424_70705518": {
+                        "content_name": null,
+                        "duration": null,
+                        "content_interaction": null,
+                        "content_piece": null,
+                        "area_producto_unir": {
+                            "area": "Educación",
+                            "nombrecurso": "Maestría en Educación Especial en Línea "
+                        },
+                        "client_ip": "62.57.93.53",
+                        "idvisitor": "75ad98a69a7f08ef",
+                        "id": "75ad98a69a7f08ef_8911424_70705518",
+                        "uuid": null,
+                        "url": "estudios.unir.net/programa/es-esp-ma-ed-master-educacion-especial/539000082423/?siteid=4307243&mmacro=0&dclid=CJnngd3Y9-ACFU3N3godF1IEVQ",
+                        "timestamp": "2019-03-10T12:36:41.000Z"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "journey": {
+            "77532276c61a530b": {
+                "journeys": {
+                    "77532276c61a530b_8912164_70710098": {
+                        "content_name": null,
+                        "duration": 36,
+                        "content_interaction": null,
+                        "content_piece": null,
+                        "area_producto_unir": {
+                            "area": "Ingeniería",
+                            "nombrecurso": "Maestría en Ingeniería de las Matemáticas en Línea "
+                        },
+                        "client_ip": "82.47.1.113",
+                        "idvisitor": "77532276c61a530b",
+                        "id": "77532276c61a530b_8912164_70710098",
+                        "uuid": null,
+                        "url": "estudios.unir.net/programa/es-esp-ma-ing-master-ingenieria-matematica-computacion/539000091350/?C3=bQBhAHIAdABhAC4AYQBsAHYAYQByAGUAegAuAGMAQABnAG0AYQBpAGwALgBjAG8AbQA=&C4=MwA0ADYANwA3ADIAOAA2ADMAMQA5AA==&C1=TQBhAHIAdABhAA==&C2=wQBsAHYAYQByAGUAegA=",
+                        "timestamp": "2019-03-10T12:58:13.000Z"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "journey": {
+            "79e70cf5a0001890": {
+                "journeys": {
+                    "79e70cf5a0001890_8911566_70706401": {
+                        "content_name": null,
+                        "duration": null,
+                        "content_interaction": null,
+                        "content_piece": null,
+                        "area_producto_unir": {
+                            "area": "Educación",
+                            "nombrecurso": "Máster Universitario en Tecnología Educativa y Competencias Digitales"
+                        },
+                        "client_ip": "181.113.137.236",
+                        "idvisitor": "79e70cf5a0001890",
+                        "id": "79e70cf5a0001890_8911566_70706401",
+                        "uuid": null,
+                        "url": "estudios.unir.net/programa/ec-esp-ma-ed-maestria-tecnologia-educativa-competencias-digitales-ec/539000113287/",
+                        "timestamp": "2019-03-10T12:40:49.000Z"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "journey": {
+            "80e011971f59fcdc": {
+                "journeys": {
+                    "80e011971f59fcdc_8911597_70706605": {
+                        "content_name": null,
+                        "duration": 9,
+                        "content_interaction": null,
+                        "content_piece": null,
+                        "area_producto_unir": {
+                            "area": "Educación",
+                            "nombrecurso": "Máster Universitario en Tecnología Educativa y Competencias Digitales"
+                        },
+                        "client_ip": "186.43.239.130",
+                        "idvisitor": "80e011971f59fcdc",
+                        "id": "80e011971f59fcdc_8911597_70706605",
+                        "uuid": null,
+                        "url": "estudios.unir.net/programa/ec-esp-ma-ed-maestria-tecnologia-educativa-competencias-digitales-ec/539000113287/",
+                        "timestamp": "2019-03-10T12:41:42.000Z"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "journey": {
+            "8ddffb5ab31a1ce7": {
+                "journeys": {
+                    "8ddffb5ab31a1ce7_8911325_70704821": {
+                        "content_name": null,
+                        "duration": 19,
+                        "content_interaction": null,
+                        "content_piece": null,
+                        "area_producto_unir": {
+                            "area": "Ingeniería",
+                            "nombrecurso": "Maestría en Dirección e Ingeniería en Sitios Web"
+                        },
+                        "client_ip": "187.143.219.131",
+                        "idvisitor": "8ddffb5ab31a1ce7",
+                        "id": "8ddffb5ab31a1ce7_8911325_70704821",
+                        "uuid": null,
+                        "url": "estudios.unir.net/programa/mx-gen-ma-gene-maestrias-sep-mexico/539000073862/",
+                        "timestamp": "2019-03-10T12:33:25.000Z"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "journey": {
+            "8f85861e569a6dde": {
+                "journeys": {
+                    "8f85861e569a6dde_8911598_70706606": {
+                        "content_name": null,
+                        "duration": 10,
+                        "content_interaction": null,
+                        "content_piece": null,
+                        "area_producto_unir": {
+                            "area": "Ingeniería",
+                            "nombrecurso": "Maestría en Dirección e Ingeniería en Sitios Web"
+                        },
+                        "client_ip": "189.216.198.134",
+                        "idvisitor": "8f85861e569a6dde",
+                        "id": "8f85861e569a6dde_8911598_70706606",
+                        "uuid": null,
+                        "url": "estudios.unir.net/programa/mx-gen-ma-gene-maestrias-sep-mexico/539000073862/",
+                        "timestamp": "2019-03-10T12:41:43.000Z"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "journey": {
+            "937e44cc3a5f9251": {
+                "journeys": {
+                    "937e44cc3a5f9251_8911771_70707585": {
+                        "content_name": null,
+                        "duration": 10,
+                        "content_interaction": null,
+                        "content_piece": null,
+                        "area_producto_unir": {
+                            "area": "Ingeniería",
+                            "nombrecurso": "Maestría en Dirección e Ingeniería en Sitios Web"
+                        },
+                        "client_ip": "138.197.133.129",
+                        "idvisitor": "937e44cc3a5f9251",
+                        "id": "937e44cc3a5f9251_8911771_70707585",
+                        "uuid": null,
+                        "url": "estudios.unir.net/programa/mx-gen-ma-gene-maestrias-sep-mexico/539000073862/",
+                        "timestamp": "2019-03-10T12:46:32.000Z"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "journey": {
+            "93e8b2140d2534d2": {
+                "journeys": {
+                    "93e8b2140d2534d2_8911375_70705134": {
+                        "content_name": null,
+                        "duration": 40,
+                        "content_interaction": null,
+                        "content_piece": null,
+                        "area_producto_unir": {
+                            "area": "Ingeniería",
+                            "nombrecurso": "Maestría en Dirección e Ingeniería en Sitios Web"
+                        },
+                        "client_ip": "189.220.180.186",
+                        "idvisitor": "93e8b2140d2534d2",
+                        "id": "93e8b2140d2534d2_8911375_70705134",
+                        "uuid": null,
+                        "url": "estudios.unir.net/programa/mx-gen-ma-gene-maestrias-sep-mexico/539000073862/",
+                        "timestamp": "2019-03-10T12:35:02.000Z"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "journey": {
+            "9b7df229de30afcb": {
+                "journeys": {
+                    "9b7df229de30afcb_8911276_70704523": {
+                        "content_name": null,
+                        "duration": 14,
+                        "content_interaction": null,
+                        "content_piece": null,
+                        "area_producto_unir": {
+                            "area": "Economía y Empresa",
+                            "nombrecurso": "Máster Universitario en Dirección y Gestión de Recursos Humanos"
+                        },
+                        "client_ip": "181.199.38.116",
+                        "idvisitor": "9b7df229de30afcb",
+                        "id": "9b7df229de30afcb_8911276_70704523",
+                        "uuid": null,
+                        "url": "estudios.unir.net/programa/ec-esp-ma-em-maestria-direccion-comercial-ventas/539000348316/",
+                        "timestamp": "2019-03-10T12:32:14.000Z"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "journey": {
+            "9c335f2057c445db": {
+                "journeys": {
+                    "9c335f2057c445db_8911793_70707726": {
+                        "content_name": null,
+                        "duration": null,
+                        "content_interaction": null,
+                        "content_piece": null,
+                        "area_producto_unir": {
+                            "area": "Economía y Empresa",
+                            "nombrecurso": "Máster Universitario en Dirección y Gestión de Recursos Humanos"
+                        },
+                        "client_ip": "200.89.252.56",
+                        "idvisitor": "9c335f2057c445db",
+                        "id": "9c335f2057c445db_8911793_70707726",
+                        "uuid": null,
+                        "url": "estudios.unir.net/programa/co-esp-ma-em-mastria-direccion-gestion-recursos-humanos-colombia/539000086775/",
+                        "timestamp": "2019-03-10T12:47:14.000Z"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "journey": {
+            "a061fd3a349667bb": {
+                "journeys": {
+                    "a061fd3a349667bb_8911662_70707008": {
+                        "content_name": null,
+                        "duration": null,
+                        "content_interaction": null,
+                        "content_piece": null,
+                        "area_producto_unir": {
+                            "area": "Jurídico",
+                            "nombrecurso": "Maestría en Derecho Penal Económico en Línea "
+                        },
+                        "client_ip": "84.79.206.176",
+                        "idvisitor": "a061fd3a349667bb",
+                        "id": "a061fd3a349667bb_8911662_70707008",
+                        "uuid": null,
+                        "url": "estudios.unir.net/programa/es-esp-ma-jur-master-oficial-derecho-penal-economico/539000095391/?wcmp=616005779&wmatch=e&wkwd=master en derecho penal&wad=322567995085&wpos=1t1&wdt=c&wdm=",
+                        "timestamp": "2019-03-10T12:43:48.000Z"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "journey": {
+            "a2cf38dfa4c5d196": {
+                "journeys": {
+                    "a2cf38dfa4c5d196_8911436_70705585": {
+                        "content_name": null,
+                        "duration": 21,
+                        "content_interaction": null,
+                        "content_piece": null,
+                        "area_producto_unir": {
+                            "area": "Economía y Empresa",
+                            "nombrecurso": "Máster Universitario en Dirección y Gestión de Recursos Humanos"
+                        },
+                        "client_ip": "128.65.155.39",
+                        "idvisitor": "a2cf38dfa4c5d196",
+                        "id": "a2cf38dfa4c5d196_8911436_70705585",
+                        "uuid": null,
+                        "url": "estudios.unir.net/programa/es-esp-ma-em-master-oficial-recursos-humanos/539000331974/?wcmp=439514663&wmatch=e&wkwd=dirección de rrhh&wad=326914990519&wpos=1t1&wdt=m&wdm",
+                        "timestamp": "2019-03-10T12:37:04.000Z"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "journey": {
+            "a539a882586f96e0": {
+                "journeys": {
+                    "a539a882586f96e0_8911733_70707311": {
+                        "content_name": null,
+                        "duration": 19,
+                        "content_interaction": null,
+                        "content_piece": null,
+                        "area_producto_unir": {
+                            "area": "Ingeniería",
+                            "nombrecurso": "Maestría en Dirección e Ingeniería en Sitios Web"
+                        },
+                        "client_ip": "187.194.208.67",
+                        "idvisitor": "a539a882586f96e0",
+                        "id": "a539a882586f96e0_8911733_70707311",
+                        "uuid": null,
+                        "url": "estudios.unir.net/programa/mx-gen-ma-gene-maestrias-sep-mexico/539000073862/",
+                        "timestamp": "2019-03-10T12:45:29.000Z"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "journey": {
+            "aaf154acb3bd5b8c": {
+                "journeys": {
+                    "aaf154acb3bd5b8c_8911750_70707417": {
+                        "content_name": null,
+                        "duration": 10,
+                        "content_interaction": null,
+                        "content_piece": null,
+                        "area_producto_unir": {
+                            "area": "Economía y Empresa",
+                            "nombrecurso": "Máster Universitario en Dirección y Gestión de Recursos Humanos"
+                        },
+                        "client_ip": "181.155.155.100",
+                        "idvisitor": "aaf154acb3bd5b8c",
+                        "id": "aaf154acb3bd5b8c_8911750_70707417",
+                        "uuid": null,
+                        "url": "estudios.unir.net/programa/co-esp-ma-em-mastria-direccion-gestion-recursos-humanos-colombia/539000086775/",
+                        "timestamp": "2019-03-10T12:45:58.000Z"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "journey": {
+            "acb9a51f695bd65d": {
+                "journeys": {
+                    "acb9a51f695bd65d_8911961_70708825": {
+                        "content_name": null,
+                        "duration": null,
+                        "content_interaction": null,
+                        "content_piece": null,
+                        "area_producto_unir": {
+                            "area": "Marketing y Comunicación",
+                            "nombrecurso": "Máster Universitario en Neuromarketing"
+                        },
+                        "client_ip": "88.148.115.168",
+                        "idvisitor": "acb9a51f695bd65d",
+                        "id": "acb9a51f695bd65d_8911961_70708825",
+                        "uuid": null,
+                        "url": "estudios.unir.net/programa/es-esp-ma-em-master-neuromarketing/539000026375/?siteid=4307243&mmacro=0&dclid=CPuO1ovc9-ACFcET0wodCPoN8A",
+                        "timestamp": "2019-03-10T12:51:45.000Z"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "journey": {
+            "acd39c374556250d": {
+                "journeys": {
+                    "acd39c374556250d_8912046_70709439": {
+                        "content_name": null,
+                        "duration": 10,
+                        "content_interaction": null,
+                        "content_piece": null,
+                        "area_producto_unir": {
+                            "area": "Ciencias Sociales y del Trabajo",
+                            "nombrecurso": "Maestría en Salud Ocupacional en Línea "
+                        },
+                        "client_ip": "191.91.244.169",
+                        "idvisitor": "acd39c374556250d",
+                        "id": "acd39c374556250d_8912046_70709439",
+                        "uuid": null,
+                        "url": "estudios.unir.net/programa/co-esp-ma-soc-maestria-prevencion-riesgos-laborales/539000027313/",
+                        "timestamp": "2019-03-10T12:54:41.000Z"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "journey": {
+            "ad3e906a0f65f79b": {
+                "journeys": {
+                    "ad3e906a0f65f79b_8911582_70706510": {
+                        "content_name": null,
+                        "duration": 10,
+                        "content_interaction": null,
+                        "content_piece": null,
+                        "area_producto_unir": {
+                            "area": "Educación",
+                            "nombrecurso": "Maestría en Español como Lengua Extranjera en Línea "
+                        },
+                        "client_ip": "109.90.233.190",
+                        "idvisitor": "ad3e906a0f65f79b",
+                        "id": "ad3e906a0f65f79b_8911582_70706510",
+                        "uuid": null,
+                        "url": "estudios.unir.net/programa/es-esp-ma-ed-master-oficial-ensenanza-espanol/539000006168/",
+                        "timestamp": "2019-03-10T12:41:13.000Z"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "journey": {
+            "bb4f3d7ae9adc471": {
+                "journeys": {
+                    "bb4f3d7ae9adc471_8911936_70708711": {
+                        "content_name": null,
+                        "duration": null,
+                        "content_interaction": null,
+                        "content_piece": null,
+                        "area_producto_unir": {
+                            "area": "Economía y Empresa",
+                            "nombrecurso": "Máster Universitario en Dirección y Administración de Empresas (MBA)"
+                        },
+                        "client_ip": "186.66.188.136",
+                        "idvisitor": "bb4f3d7ae9adc471",
+                        "id": "bb4f3d7ae9adc471_8911936_70708711",
+                        "uuid": null,
+                        "url": "estudios.unir.net/programa/ec-esp-ma-em-mba-europeo/539000282647/",
+                        "timestamp": "2019-03-10T12:51:11.000Z"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "journey": {
+            "c1eaf72d8c962ae1": {
+                "journeys": {
+                    "c1eaf72d8c962ae1_8912087_70709654": {
+                        "content_name": null,
+                        "duration": null,
+                        "content_interaction": null,
+                        "content_piece": null,
+                        "area_producto_unir": {
+                            "area": "Economía y Empresa",
+                            "nombrecurso": "Máster Universitario en Dirección y Gestión de Recursos Humanos"
+                        },
+                        "client_ip": "191.148.64.130",
+                        "idvisitor": "c1eaf72d8c962ae1",
+                        "id": "c1eaf72d8c962ae1_8912087_70709654",
+                        "uuid": null,
+                        "url": "estudios.unir.net/programa/co-esp-ma-em-mastria-direccion-gestion-recursos-humanos-colombia/539000086775/",
+                        "timestamp": "2019-03-10T12:55:39.000Z"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "journey": {
+            "cb07700e446ae55e": {
+                "journeys": {
+                    "cb07700e446ae55e_8911523_70706122": {
+                        "content_name": null,
+                        "duration": null,
+                        "content_interaction": null,
+                        "content_piece": null,
+                        "area_producto_unir": {
+                            "area": "Jurídico",
+                            "nombrecurso": "Maestría en Derecho Fiscal Internacional en Línea "
+                        },
+                        "client_ip": "191.100.172.182",
+                        "idvisitor": "cb07700e446ae55e",
+                        "id": "cb07700e446ae55e_8911523_70706122",
+                        "uuid": null,
+                        "url": "estudios.unir.net/programa/ec-esp-ma-jur-maestria-fiscalidad-internacional/539000285364/",
+                        "timestamp": "2019-03-10T12:39:41.000Z"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "journey": {
+            "cbc3ee31c706cd08": {
+                "journeys": {
+                    "cbc3ee31c706cd08_8911326_70704831": {
+                        "content_name": null,
+                        "duration": 10,
+                        "content_interaction": null,
+                        "content_piece": null,
+                        "area_producto_unir": {
+                            "area": "Ciencias de la Salud",
+                            "nombrecurso": "Diplomado en Investigación Clínica en Línea "
+                        },
+                        "client_ip": "213.98.229.92",
+                        "idvisitor": "cbc3ee31c706cd08",
+                        "id": "cbc3ee31c706cd08_8911326_70704831",
+                        "uuid": null,
+                        "url": "estudios.unir.net/programa/es-esp-cu-sal-curso-gestion-proyectos-gestion-clinica/539000259577/",
+                        "timestamp": "2019-03-10T12:33:33.000Z"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "journey": {
+            "cd88b5e4e82852c4": {
+                "journeys": {
+                    "cd88b5e4e82852c4_8911381_70705204": {
+                        "content_name": null,
+                        "duration": 10,
+                        "content_interaction": null,
+                        "content_piece": null,
+                        "area_producto_unir": {
+                            "area": "Economía y Empresa",
+                            "nombrecurso": "Máster Universitario en Dirección y Administración de Empresas (MBA)"
+                        },
+                        "client_ip": "181.113.97.127",
+                        "idvisitor": "cd88b5e4e82852c4",
+                        "id": "cd88b5e4e82852c4_8911381_70705204",
+                        "uuid": null,
+                        "url": "estudios.unir.net/programa/ec-esp-ma-em-mba-europeo/539000282647/",
+                        "timestamp": "2019-03-10T12:35:12.000Z"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "journey": {
+            "cdf10f645bf9d383": {
+                "journeys": {
+                    "cdf10f645bf9d383_8911487_70705912": {
+                        "content_name": null,
+                        "duration": 10,
+                        "content_interaction": null,
+                        "content_piece": null,
+                        "area_producto_unir": {
+                            "area": "Artes y Humanidades",
+                            "nombrecurso": "Maestría en Musicoterapia en Línea "
+                        },
+                        "client_ip": "81.202.104.254",
+                        "idvisitor": "cdf10f645bf9d383",
+                        "id": "cdf10f645bf9d383_8911487_70705912",
+                        "uuid": null,
+                        "url": "estudios.unir.net/programa/es-esp-ma-art-master-oficial-musicoterapia/539000257011/?wcmp=829719562&wmatch=p&wkwd=curso musicoterapia&wad=260134033666&wpos=1t1&wdt=m&wdm=",
+                        "timestamp": "2019-03-10T12:38:35.000Z"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "journey": {
+            "d5a275417eab4722": {
+                "journeys": {
+                    "d5a275417eab4722_8911743_70707365": {
+                        "content_name": null,
+                        "duration": 10,
+                        "content_interaction": null,
+                        "content_piece": null,
+                        "area_producto_unir": {
+                            "area": "Educación",
+                            "nombrecurso": "Máster Universitario en Neuropsicología y Educación"
+                        },
+                        "client_ip": "31.4.187.143",
+                        "idvisitor": "d5a275417eab4722",
+                        "id": "d5a275417eab4722_8911743_70707365",
+                        "uuid": null,
+                        "url": "estudios.unir.net/programa/es-esp-ma-ed-master-online-neuropsicologia/539000003822/?wcmp=1595586915&wmatch=b&wkwd=+educacion +unir&wad=302376748229&wpos=1t1&wdt=m&wdm=",
+                        "timestamp": "2019-03-10T12:45:42.000Z"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "journey": {
+            "d9642a376a590d6f": {
+                "journeys": {
+                    "d9642a376a590d6f_8911394_70705296": {
+                        "content_name": null,
+                        "duration": 6,
+                        "content_interaction": null,
+                        "content_piece": null,
+                        "area_producto_unir": {
+                            "area": "Economía y Empresa",
+                            "nombrecurso": "Maestría en Marketing Político y Comunicación en Línea "
+                        },
+                        "client_ip": "186.1.180.217",
+                        "idvisitor": "d9642a376a590d6f",
+                        "id": "d9642a376a590d6f_8911394_70705296",
+                        "uuid": null,
+                        "url": "estudios.unir.net/programa/co-esp-ma-com-maestria-comunicacion-marketing-politico-co/539000211401/",
+                        "timestamp": "2019-03-10T12:35:37.000Z"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "journey": {
+            "daa9df314974e2ff": {
+                "journeys": {
+                    "daa9df314974e2ff_8911592_70706589": {
+                        "content_name": null,
+                        "duration": null,
+                        "content_interaction": null,
+                        "content_piece": null,
+                        "area_producto_unir": {
+                            "area": "Economía y Empresa",
+                            "nombrecurso": "Máster Universitario en Dirección y Gestión de Recursos Humanos"
+                        },
+                        "client_ip": "5.225.236.28",
+                        "idvisitor": "daa9df314974e2ff",
+                        "id": "daa9df314974e2ff_8911592_70706589",
+                        "uuid": null,
+                        "url": "estudios.unir.net/programa/es-esp-ma-em-master-direccion-comercial-ventas/539000342240/?wcmp=1683375599&wmatch=&wkwd=&wad=326975634376&wpos=none&wdt=t&wdm=lenovo+tb2-x30f",
+                        "timestamp": "2019-03-10T12:41:33.000Z"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "journey": {
+            "e689d1f45b5230ae": {
+                "journeys": {
+                    "e689d1f45b5230ae_8911409_70706339": {
+                        "content_name": null,
+                        "duration": 12,
+                        "content_interaction": null,
+                        "content_piece": null,
+                        "area_producto_unir": {
+                            "area": "Educación",
+                            "idcurso": "112218",
+                            "nombrecurso": "Maestría en Aprendizaje, Cognición y Desarrollo Educativo"
+                        },
+                        "client_ip": "189.187.6.174",
+                        "idvisitor": "e689d1f45b5230ae",
+                        "id": "e689d1f45b5230ae_8911409_70706339",
+                        "uuid": null,
+                        "url": "estudios.unir.net/graciasmexico/?idCurso=112218&idCupon=1552225234428",
+                        "timestamp": "2019-03-10T12:40:36.000Z"
+                    },
+                    "e689d1f45b5230ae_8911409_70706435": {
+                        "content_name": null,
+                        "duration": 4,
+                        "content_interaction": null,
+                        "content_piece": null,
+                        "area_producto_unir": {
+                            "area": "Educación",
+                            "nombrecurso": "Maestría en Aprendizaje, Cognición y Desarrollo Educativo"
+                        },
+                        "client_ip": "189.187.6.174",
+                        "idvisitor": "e689d1f45b5230ae",
+                        "id": "e689d1f45b5230ae_8911409_70706435",
+                        "uuid": null,
+                        "url": "estudios.unir.net/programa/mx-esp-ma-ed-maestria-oficial-neuropsicologia-educacion/539000347001/",
+                        "timestamp": "2019-03-10T12:40:48.000Z"
+                    },
+                    "e689d1f45b5230ae_8911409_70706332": {
+                        "content_name": null,
+                        "duration": 4,
+                        "content_interaction": null,
+                        "content_piece": null,
+                        "area_producto_unir": {
+                            "area": "Educación",
+                            "nombrecurso": "Maestría en Aprendizaje, Cognición y Desarrollo Educativo"
+                        },
+                        "client_ip": "189.187.6.174",
+                        "idvisitor": "e689d1f45b5230ae",
+                        "id": "e689d1f45b5230ae_8911409_70706332",
+                        "uuid": null,
+                        "url": "estudios.unir.net/programa/mx-esp-ma-ed-maestria-oficial-neuropsicologia-educacion/539000347001/",
+                        "timestamp": "2019-03-10T12:40:32.000Z"
+                    },
+                    "e689d1f45b5230ae_8911409_70706331": {
+                        "content_name": null,
+                        "duration": null,
+                        "content_interaction": null,
+                        "content_piece": null,
+                        "area_producto_unir": {
+                            "area": "Educación",
+                            "nombrecurso": "Maestría en Aprendizaje, Cognición y Desarrollo Educativo"
+                        },
+                        "client_ip": "189.187.6.174",
+                        "idvisitor": "e689d1f45b5230ae",
+                        "id": "e689d1f45b5230ae_8911409_70706331",
+                        "uuid": null,
+                        "url": "estudios.unir.net/programa/mx-esp-ma-ed-maestria-oficial-neuropsicologia-educacion/539000347001/",
+                        "timestamp": "2019-03-10T12:40:32.000Z"
+                    },
+                    "e689d1f45b5230ae_8911409_70705849": {
+                        "content_name": null,
+                        "duration": 8,
+                        "content_interaction": null,
+                        "content_piece": null,
+                        "area_producto_unir": {
+                            "area": "Educación",
+                            "nombrecurso": "Maestría en Aprendizaje, Cognición y Desarrollo Educativo"
+                        },
+                        "client_ip": "189.187.6.174",
+                        "idvisitor": "e689d1f45b5230ae",
+                        "id": "e689d1f45b5230ae_8911409_70705849",
+                        "uuid": null,
+                        "url": "estudios.unir.net/programa/mx-esp-ma-ed-maestria-oficial-neuropsicologia-educacion/539000347001/",
+                        "timestamp": "2019-03-10T12:38:19.000Z"
+                    },
+                    "e689d1f45b5230ae_8911409_70705797": {
+                        "content_name": null,
+                        "duration": 24,
+                        "content_interaction": null,
+                        "content_piece": null,
+                        "area_producto_unir": {
+                            "area": "Educación",
+                            "nombrecurso": "Maestría en Aprendizaje, Cognición y Desarrollo Educativo"
+                        },
+                        "client_ip": "189.187.6.174",
+                        "idvisitor": "e689d1f45b5230ae",
+                        "id": "e689d1f45b5230ae_8911409_70705797",
+                        "uuid": null,
+                        "url": "estudios.unir.net/programa/mx-esp-ma-ed-maestria-oficial-neuropsicologia-educacion/539000347001/",
+                        "timestamp": "2019-03-10T12:37:55.000Z"
+                    },
+                    "e689d1f45b5230ae_8911409_70705747": {
+                        "content_name": null,
+                        "duration": null,
+                        "content_interaction": null,
+                        "content_piece": null,
+                        "area_producto_unir": {
+                            "area": "Educación",
+                            "nombrecurso": "Maestría en Aprendizaje, Cognición y Desarrollo Educativo"
+                        },
+                        "client_ip": "189.187.6.174",
+                        "idvisitor": "e689d1f45b5230ae",
+                        "id": "e689d1f45b5230ae_8911409_70705747",
+                        "uuid": null,
+                        "url": "estudios.unir.net/programa/mx-esp-ma-ed-maestria-oficial-neuropsicologia-educacion/539000347001/",
+                        "timestamp": "2019-03-10T12:37:48.000Z"
+                    },
+                    "e689d1f45b5230ae_8911409_70705879": {
+                        "content_name": null,
+                        "duration": 20,
+                        "content_interaction": null,
+                        "content_piece": null,
+                        "area_producto_unir": {
+                            "area": "Educación",
+                            "nombrecurso": "Maestría en Aprendizaje, Cognición y Desarrollo Educativo"
+                        },
+                        "client_ip": "189.187.6.174",
+                        "idvisitor": "e689d1f45b5230ae",
+                        "id": "e689d1f45b5230ae_8911409_70705879",
+                        "uuid": null,
+                        "url": "estudios.unir.net/programa/mx-esp-ma-ed-maestria-oficial-neuropsicologia-educacion/539000347001/",
+                        "timestamp": "2019-03-10T12:38:27.000Z"
+                    },
+                    "e689d1f45b5230ae_8911409_70705404": {
+                        "content_name": null,
+                        "duration": 39,
+                        "content_interaction": null,
+                        "content_piece": null,
+                        "area_producto_unir": {
+                            "area": "Educación",
+                            "nombrecurso": "Maestría en Aprendizaje, Cognición y Desarrollo Educativo"
+                        },
+                        "client_ip": "189.187.6.174",
+                        "idvisitor": "e689d1f45b5230ae",
+                        "id": "e689d1f45b5230ae_8911409_70705404",
+                        "uuid": null,
+                        "url": "estudios.unir.net/programa/mx-esp-ma-ed-maestria-oficial-neuropsicologia-educacion/539000347001/",
+                        "timestamp": "2019-03-10T12:36:06.000Z"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "journey": {
+            "e9aa77717f4fc69a": {
+                "journeys": {
+                    "e9aa77717f4fc69a_8911112_70704682": {
+                        "content_name": null,
+                        "duration": 4,
+                        "content_interaction": null,
+                        "content_piece": null,
+                        "area_producto_unir": {
+                            "area": "Educación",
+                            "nombrecurso": "Curso de Inteligencia Emocional en Línea "
+                        },
+                        "client_ip": "187.254.24.48",
+                        "idvisitor": "e9aa77717f4fc69a",
+                        "id": "e9aa77717f4fc69a_8911112_70704682",
+                        "uuid": null,
+                        "url": "estudios.unir.net/programa/mx-esp-cu-ed-curso-inteligencia-emocional/539000267550/",
+                        "timestamp": "2019-03-10T12:32:50.000Z"
+                    },
+                    "e9aa77717f4fc69a_8911112_70704801": {
+                        "content_name": null,
+                        "duration": null,
+                        "content_interaction": null,
+                        "content_piece": null,
+                        "area_producto_unir": {
+                            "area": "Educación",
+                            "nombrecurso": "Curso de Inteligencia Emocional en Línea "
+                        },
+                        "client_ip": "187.254.24.48",
+                        "idvisitor": "e9aa77717f4fc69a",
+                        "id": "e9aa77717f4fc69a_8911112_70704801",
+                        "uuid": null,
+                        "url": "estudios.unir.net/programa/mx-esp-cu-ed-curso-inteligencia-emocional/539000267550/",
+                        "timestamp": "2019-03-10T12:33:18.000Z"
+                    },
+                    "e9aa77717f4fc69a_8911112_70704781": {
+                        "content_name": null,
+                        "duration": 2,
+                        "content_interaction": null,
+                        "content_piece": null,
+                        "area_producto_unir": {
+                            "area": "Educación",
+                            "idcurso": "26027",
+                            "nombrecurso": "Curso de Inteligencia Emocional en Línea "
+                        },
+                        "client_ip": "187.254.24.48",
+                        "idvisitor": "e9aa77717f4fc69a",
+                        "id": "e9aa77717f4fc69a_8911112_70704781",
+                        "uuid": null,
+                        "url": "estudios.unir.net/graciasmexico/?idCurso=26027&idCupon=1552224771792",
+                        "timestamp": "2019-03-10T12:33:16.000Z"
+                    },
+                    "e9aa77717f4fc69a_8911112_70704357": {
+                        "content_name": null,
+                        "duration": 20,
+                        "content_interaction": null,
+                        "content_piece": null,
+                        "area_producto_unir": {
+                            "area": "Educación",
+                            "nombrecurso": "Curso de Inteligencia Emocional en Línea "
+                        },
+                        "client_ip": "187.254.24.48",
+                        "idvisitor": "e9aa77717f4fc69a",
+                        "id": "e9aa77717f4fc69a_8911112_70704357",
+                        "uuid": null,
+                        "url": "estudios.unir.net/programa/mx-esp-cu-ed-curso-inteligencia-emocional/539000267550/",
+                        "timestamp": "2019-03-10T12:31:29.000Z"
+                    },
+                    "e9aa77717f4fc69a_8911112_70704689": {
+                        "content_name": null,
+                        "duration": null,
+                        "content_interaction": null,
+                        "content_piece": null,
+                        "area_producto_unir": {
+                            "area": "Educación",
+                            "idcurso": "26027",
+                            "nombrecurso": "Curso de Inteligencia Emocional en Línea "
+                        },
+                        "client_ip": "187.254.24.48",
+                        "idvisitor": "e9aa77717f4fc69a",
+                        "id": "e9aa77717f4fc69a_8911112_70704689",
+                        "uuid": null,
+                        "url": "estudios.unir.net/graciasmexico/?idCurso=26027&idCupon=1552224771792",
+                        "timestamp": "2019-03-10T12:32:54.000Z"
+                    },
+                    "e9aa77717f4fc69a_8911112_70704681": {
+                        "content_name": null,
+                        "duration": null,
+                        "content_interaction": null,
+                        "content_piece": null,
+                        "area_producto_unir": {
+                            "area": "Educación",
+                            "nombrecurso": "Curso de Inteligencia Emocional en Línea "
+                        },
+                        "client_ip": "187.254.24.48",
+                        "idvisitor": "e9aa77717f4fc69a",
+                        "id": "e9aa77717f4fc69a_8911112_70704681",
+                        "uuid": null,
+                        "url": "estudios.unir.net/programa/mx-esp-cu-ed-curso-inteligencia-emocional/539000267550/",
+                        "timestamp": "2019-03-10T12:32:50.000Z"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "journey": {
+            "ea99ee918564f33f": {
+                "journeys": {
+                    "ea99ee918564f33f_8912184_70710179": {
+                        "content_name": null,
+                        "duration": 10,
+                        "content_interaction": null,
+                        "content_piece": null,
+                        "area_producto_unir": {
+                            "area": "Educación",
+                            "nombrecurso": "Maestría en Psicopedagogía"
+                        },
+                        "client_ip": "189.137.215.65",
+                        "idvisitor": "ea99ee918564f33f",
+                        "id": "ea99ee918564f33f_8912184_70710179",
+                        "uuid": null,
+                        "url": "estudios.unir.net/programa/mx-esp-ma-ed-maestria-sep-psicopedagogia-mexico/539000073586/",
+                        "timestamp": "2019-03-10T12:58:36.000Z"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "journey": {
+            "eab93dae8b1129de": {
+                "journeys": {
+                    "eab93dae8b1129de_8911355_70705027": {
+                        "content_name": null,
+                        "duration": null,
+                        "content_interaction": null,
+                        "content_piece": null,
+                        "area_producto_unir": {
+                            "area": "Economía y Empresa",
+                            "nombrecurso": "Máster Universitario en Dirección y Gestión de Recursos Humanos"
+                        },
+                        "client_ip": "84.121.96.56",
+                        "idvisitor": "eab93dae8b1129de",
+                        "id": "eab93dae8b1129de_8911355_70705027",
+                        "uuid": null,
+                        "url": "estudios.unir.net/programa/es-gen-ma-em-masters-empresa-finanzas-marketing/539000032879/?siteid=4313510&mmacro=0&dclid=CjkKEQiAiJPkBRC46oazwoTxloABEiQAQr4o5oUvJOa3j97faCQoYn3sZduCl8qP4L48n7UM-cXt9Ffw_wcB",
+                        "timestamp": "2019-03-10T12:34:27.000Z"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "journey": {
+            "ef015f0c5a4c75d4": {
+                "journeys": {
+                    "ef015f0c5a4c75d4_8911482_70705887": {
+                        "content_name": null,
+                        "duration": 12,
+                        "content_interaction": null,
+                        "content_piece": null,
+                        "area_producto_unir": {
+                            "area": "Economía y Empresa",
+                            "nombrecurso": "Maestría en Marketing Político y Comunicación en Línea "
+                        },
+                        "client_ip": "190.25.116.8",
+                        "idvisitor": "ef015f0c5a4c75d4",
+                        "id": "ef015f0c5a4c75d4_8911482_70705887",
+                        "uuid": null,
+                        "url": "estudios.unir.net/programa/co-esp-ma-com-maestria-comunicacion-marketing-politico-co/539000211401/",
+                        "timestamp": "2019-03-10T12:38:36.000Z"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "journey": {
+            "ef3cef018bbb4183": {
+                "journeys": {
+                    "ef3cef018bbb4183_8912217_70710381": {
+                        "content_name": null,
+                        "duration": 19,
+                        "content_interaction": null,
+                        "content_piece": null,
+                        "area_producto_unir": {
+                            "area": "Educación",
+                            "nombrecurso": "Máster Universitario en Psicopedagogía"
+                        },
+                        "client_ip": "89.128.222.78",
+                        "idvisitor": "ef3cef018bbb4183",
+                        "id": "ef3cef018bbb4183_8912217_70710381",
+                        "uuid": null,
+                        "url": "estudios.unir.net/programa/es-esp-ma-ed-master-online-psicopedagogia/539000012483/?siteid=4307243&mmacro=0&dclid=CLGBveXd9-ACFVPgGwodxIQF0w",
+                        "timestamp": "2019-03-10T12:59:22.000Z"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "journey": {
+            "ef9726106aea8734": {
+                "journeys": {
+                    "ef9726106aea8734_8911329_70704845": {
+                        "content_name": null,
+                        "duration": null,
+                        "content_interaction": null,
+                        "content_piece": null,
+                        "area_producto_unir": {
+                            "area": "Ingeniería",
+                            "nombrecurso": "Maestría en Dirección e Ingeniería en Sitios Web"
+                        },
+                        "client_ip": "177.237.186.224",
+                        "idvisitor": "ef9726106aea8734",
+                        "id": "ef9726106aea8734_8911329_70704845",
+                        "uuid": null,
+                        "url": "estudios.unir.net/programa/mx-gen-ma-gene-maestrias-sep-mexico/539000073862/",
+                        "timestamp": "2019-03-10T12:33:29.000Z"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "journey": {
+            "f1bd9752d34f4442": {
+                "journeys": {
+                    "f1bd9752d34f4442_8911996_70709098": {
+                        "content_name": null,
+                        "duration": 50,
+                        "content_interaction": null,
+                        "content_piece": null,
+                        "area_producto_unir": {
+                            "area": "Marketing y Comunicación",
+                            "nombrecurso": "Máster Universitario en Marketing Digital y Comercio Electrónico"
+                        },
+                        "client_ip": "193.152.119.220",
+                        "idvisitor": "f1bd9752d34f4442",
+                        "id": "f1bd9752d34f4442_8911996_70709098",
+                        "uuid": null,
+                        "url": "estudios.unir.net/programa/es-esp-ma-em-master-marketing-digital-ecommerce/539000015388/?wcmp=1585603101&wmatch=e&wkwd=marketing digital unir&wad=297994068647&wpos=1t1&wdt=m&wdm=",
+                        "timestamp": "2019-03-10T12:53:01.000Z"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "journey": {
+            "f1d53b6e110864e8": {
+                "journeys": {
+                    "f1d53b6e110864e8_8911359_70705047": {
+                        "content_name": null,
+                        "duration": null,
+                        "content_interaction": null,
+                        "content_piece": null,
+                        "area_producto_unir": {
+                            "area": "Educación",
+                            "nombrecurso": "Máster Universitario en Psicopedagogía"
+                        },
+                        "client_ip": "31.4.204.125",
+                        "idvisitor": "f1d53b6e110864e8",
+                        "id": "f1d53b6e110864e8_8911359_70705047",
+                        "uuid": null,
+                        "url": "estudios.unir.net/programa/es-esp-ma-ed-master-online-psicopedagogia/539000012483/?siteid=4939027&mmacro=0&dclid=CjkKEQiAiJPkBRC46oazwoTxloABEiQAQr4o5mUZ3B9RzK4Jc9s7Eik6IcDU6RDoOWafz2tVyiYh6YTw_wcB",
+                        "timestamp": "2019-03-10T12:34:29.000Z"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "journey": {
+            "f97e6ad3c3dbeba3": {
+                "journeys": {
+                    "f97e6ad3c3dbeba3_8911242_70704288": {
+                        "content_name": null,
+                        "duration": null,
+                        "content_interaction": null,
+                        "content_piece": null,
+                        "area_producto_unir": {
+                            "area": "Jurídico",
+                            "nombrecurso": "Maestría en Derecho Fiscal Internacional en Línea "
+                        },
+                        "client_ip": "191.74.168.173",
+                        "idvisitor": "f97e6ad3c3dbeba3",
+                        "id": "f97e6ad3c3dbeba3_8911242_70704288",
+                        "uuid": null,
+                        "url": "estudios.unir.net/programa/co-esp-ma-jur-maestria-en-tributacion-internacional/539000002066/",
+                        "timestamp": "2019-03-10T12:31:08.000Z"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "journey": {
+            "f987de9d8f1c16f1": {
+                "journeys": {
+                    "f987de9d8f1c16f1_8911496_70705972": {
+                        "content_name": null,
+                        "duration": null,
+                        "content_interaction": null,
+                        "content_piece": null,
+                        "area_producto_unir": {
+                            "area": "Jurídico",
+                            "nombrecurso": "Maestría en Derecho Fiscal Internacional en Línea "
+                        },
+                        "client_ip": "201.244.244.217",
+                        "idvisitor": "f987de9d8f1c16f1",
+                        "id": "f987de9d8f1c16f1_8911496_70705972",
+                        "uuid": null,
+                        "url": "estudios.unir.net/programa/co-esp-ma-jur-maestria-en-tributacion-internacional/539000002066/",
+                        "timestamp": "2019-03-10T12:39:01.000Z"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "journey": {
+            "fbf13f9a6aae11c7": {
+                "journeys": {
+                    "fbf13f9a6aae11c7_8912071_70709573": {
+                        "content_name": null,
+                        "duration": 10,
+                        "content_interaction": null,
+                        "content_piece": null,
+                        "area_producto_unir": {
+                            "area": "Ingeniería",
+                            "nombrecurso": "Maestría en Dirección e Ingeniería en Sitios Web"
+                        },
+                        "client_ip": "201.141.45.250",
+                        "idvisitor": "fbf13f9a6aae11c7",
+                        "id": "fbf13f9a6aae11c7_8912071_70709573",
+                        "uuid": null,
+                        "url": "estudios.unir.net/programa/mx-gen-ma-gene-maestrias-sep-mexico/539000073862/",
+                        "timestamp": "2019-03-10T12:55:15.000Z"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "journey": {
+            "c5f9405c60ed444d": {
+                "opportunities": {
+                    "93eccdbc-4330-11e9-8ce5-005056ab32f0": {
+                        "area": "Educación",
+                        "tipo": "POSTU",
+                        "fase": "no_contactado",
+                        "idvisitor": "c5f9405c60ed444d",
+                        "nombrecurso": "Máster Universitario en Tecnología Educativa y Competencias Digitales",
+                        "date_modified": "2019-03-11T16:51:24+01:00",
+                        "prkt_paises_id1_c": "EC",
+                        "price_c": "0.000000",
+                        "name": "MU  en Tecnología Educativa y Competencias Digitales",
+                        "date_entered": "2019-03-10T13:32:00+01:00",
+                        "idcurso": "58331",
+                        "email": "23ae9d292cf52ab938b18d2be108a4f3",
+                        "status": "descartado_no_duplicado"
+                    },
+                    "4c779f7e-4331-11e9-9273-005056ab32f0": {
+                        "area": "Educación",
+                        "tipo": "POSTU",
+                        "fase": "no_contactado",
+                        "idvisitor": "c5f9405c60ed444d",
+                        "nombrecurso": "Máster Universitario en Liderazgo y Dirección de Centros Educativos",
+                        "date_modified": "2019-03-11T16:51:04+01:00",
+                        "prkt_paises_id1_c": "EC",
+                        "price_c": "0.000000",
+                        "name": "MU  en Liderazgo y Dirección de Centros Educativos",
+                        "date_entered": "2019-03-10T13:37:00+01:00",
+                        "idcurso": "68287",
+                        "email": "23ae9d292cf52ab938b18d2be108a4f3",
+                        "status": "descartado_no_duplicado"
+                    }
+                },
+                "client": {
+                    "hash": "23ae9d292cf52ab938b18d2be108a4f3",
+                    "n_opportunities": 4,
+                    "client_id": "2b6f3042-432e-11e9-a349-005056ab32f0",
+                    "full_name": "Alba Rocio Lima López",
+                    "nombre": "Alba Rocio",
+                    "apellidos": "Lima López",
+                    "telefono": "+593994914594",
+                    "email": "alrolilo_niquito1980@hotmail.com",
+                    "date_modified": "2019-03-12T00:36:26+01:00",
+                    "education_level": "tercer_nivel",
+                    "prkt_ciudades_id_c": "EC-LOJ",
+                    "pais_de_residencia_c": "Ecuador",
+                    "province_c": "Loja",
+                    "prkt_paises_id1_c": "EC",
+                    "aceptacion_gdpr_c": "1",
+                    "date_entered": "2019-03-10T14:15:14+01:00",
+                    "hash_phone": "fe38d773e8ecda78ad6083483bbe49a6",
+                    "idvisitor": "c5f9405c60ed444d"
+                }
+            }
+        }
+    },
+    {
+        "journey": {
+            "baa06613aef4f487": {
+                "opportunities": {
+                    "86b9763e-4332-11e9-8b4c-005056ab32f0": {
+                        "area": "Educación",
+                        "tipo": "POSTU",
+                        "fase": "no_contactado",
+                        "idvisitor": "baa06613aef4f487",
+                        "nombrecurso": "Máster Universitario en Neuropsicología y Educación",
+                        "date_modified": "2019-03-10T13:46:29+01:00",
+                        "prkt_paises_id1_c": "CO",
+                        "price_c": "0.000000",
+                        "name": "MU  en Neuropsicología y Educación",
+                        "date_entered": "2019-03-10T13:46:00+01:00",
+                        "idcurso": "14078",
+                        "email": "f53359bcac46b9058766ae43fe4fe573",
+                        "status": "asignado"
+                    }
+                },
+                "client": {
+                    "hash": "f53359bcac46b9058766ae43fe4fe573",
+                    "n_opportunities": 1,
+                    "client_id": "869d9108-4332-11e9-9c2c-005056ab32f0",
+                    "full_name": "Maricela  Leyton Díaz",
+                    "nombre": "Maricela",
+                    "apellidos": "Leyton Díaz",
+                    "telefono": "+573128742916",
+                    "email": "mary.ley95@hotmail.com",
+                    "date_modified": "2019-03-10T13:47:26+01:00",
+                    "education_level": "especialista",
+                    "prkt_ciudades_id_c": "CO-CAU",
+                    "pais_de_residencia_c": "Colombia",
+                    "province_c": "Cauca",
+                    "prkt_paises_id1_c": "CO",
+                    "aceptacion_gdpr_c": "1",
+                    "date_entered": "2019-03-10T14:46:23+01:00",
+                    "hash_phone": "011b9bae18090b0c1d8d466e09732978",
+                    "idvisitor": "baa06613aef4f487"
+                }
+            }
+        }
+    },
+    {
+        "journey": {
+            "38d2292261ab3574": {
+                "opportunities": {
+                    "82455578-4332-11e9-a172-005056ab32f0": {
+                        "area": "Ciencias de la Salud",
+                        "tipo": "POSTP",
+                        "fase": "no_contactado",
+                        "idvisitor": "38d2292261ab3574",
+                        "nombrecurso": "Maestría en Nutrición en Línea ",
+                        "date_modified": "2019-03-10T13:46:22+01:00",
+                        "prkt_paises_id1_c": "EC",
+                        "price_c": "0.000000",
+                        "name": "Máster Nutrición, Obesidad y Técnicas Culinarias",
+                        "date_entered": "2019-03-10T13:46:00+01:00",
+                        "idcurso": "109076",
+                        "email": "a078c0afcb29aee6beb113f8b56db116",
+                        "status": "asignado"
+                    }
+                },
+                "client": {
+                    "hash": "a078c0afcb29aee6beb113f8b56db116",
+                    "n_opportunities": 1,
+                    "client_id": "8228156c-4332-11e9-97ee-005056ab32f0",
+                    "full_name": "Diana Pacheco",
+                    "nombre": "Diana",
+                    "apellidos": "Pacheco",
+                    "telefono": "+593985422724",
+                    "email": "diana22pacheco@gmail.com",
+                    "date_modified": "2019-03-10T13:47:26+01:00",
+                    "education_level": "tercer_nivel",
+                    "prkt_ciudades_id_c": "EC-PIC",
+                    "pais_de_residencia_c": "Ecuador",
+                    "province_c": "Pichincha",
+                    "prkt_paises_id1_c": "EC",
+                    "aceptacion_gdpr_c": "1",
+                    "date_entered": "2019-03-10T14:46:14+01:00",
+                    "hash_phone": "58518b103d7f93cb687e52269d2a44c4",
+                    "idvisitor": "38d2292261ab3574"
+                }
+            }
+        }
+    },
+    {
+        "journey": {
+            "e438c8572ba09c5a": {
+                "opportunities": {
+                    "ff8683e2-4330-11e9-804d-005056ab32f0": {
+                        "area": "Ingeniería",
+                        "tipo": "POSTU",
+                        "fase": "no_contactado",
+                        "idvisitor": "e438c8572ba09c5a",
+                        "nombrecurso": "Maestría en Gestión Ambiental en Línea ",
+                        "date_modified": "2019-03-10T13:35:33+01:00",
+                        "prkt_paises_id1_c": "EC",
+                        "price_c": "0.000000",
+                        "name": "MU  en Gestión Ambiental y Energética en las Organizaciones",
+                        "date_entered": "2019-03-10T13:35:00+01:00",
+                        "idcurso": "76033",
+                        "email": "6c1ac43b7e9bb0968c4f8c24b38ab17e",
+                        "status": "asignado"
+                    }
+                },
+                "client": {
+                    "client_id": "a73947c4-7e50-11e8-a511-005056ab32f0",
+                    "hash": "6c1ac43b7e9bb0968c4f8c24b38ab17e",
+                    "nombre": "Roberto Andres",
+                    "telefono": "+593983124222",
+                    "email": "andx_uio_90@hotmail.com",
+                    "n_opportunities": 2,
+                    "cualificacion": "",
+                    "date_modified": "2019-03-10T13:35:34+01:00",
+                    "education_level": "tercer_nivel",
+                    "feeling": "",
+                    "pais_de_residencia_c": "Ecuador",
+                    "province_c": "Pichincha",
+                    "prkt_paises_id1_c": "EC",
+                    "postal_code_c": "",
+                    "apellidos": "Reisancho Puetate",
+                    "full_name": "Roberto Andres Reisancho Puetate",
+                    "prkt_ciudades_id_c": "EC-PIC",
+                    "hash_phone": "b9814141062836b9fc22f8120f50ed6b",
+                    "idvisitor": "e438c8572ba09c5a",
+                    "source": "traditional",
+                    "aceptacion_gdpr_c": "1",
+                    "date_entered": "2018-07-03T03:35:43+02:00"
+                }
+            }
+        }
+    }
+]
